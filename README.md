@@ -36,79 +36,26 @@ A continuació es mostra l’equivalència i codificació dels diferents tràmit
 | **nomTramit** | **codiTramit** |
 | --- | --- |
 | Declaració responsable d&#39;oobertura | 8b4480882a1a497eea49a3d75f678323a |
-| --- | --- |
 | Comunicació prèvia d&#39;obertura | acbb09265b434fa779d0bc41124d2e400 |
-| --- | --- |
 | Comunicació prèvia ambiental municipal (Annex III) | dd0bdc022d1448d6687dde442c374efa4 |
-| --- | --- |
 | Llicència ambiental | 8372cb9e38c648f99ed1ccf1b16cf0c9 |
-| --- | --- |
 | Consulta prèvia de classificació de l&#39;activitat | a1094dd3554f410aaa0bae5fc7b0e4211 |
+| Sol·licitud informe urbanístic associat a la tramitació d&#39;activitats| 1e9eeea3f3d142fabb12f0b2e3c8dc439 |
+| Sol·licitud informe previ en matèria d&#39;incendis  | 64b288428f6f46589947633dae04c3315 |
 | --- | --- |
-| Sol·licitud informe urbanístic associat a la tramitació | 1e9eeea3f3d142fabb12f0b2e3c8dc439 |
-| --- | --- |
-| d&#39;activitats |
- |
-| Sol·licitud informe previ en matèria d&#39;incendis | 64b288428f6f46589947633dae04c3315 |
-| --- | --- |
-| Llicència per a espectaacles públics o activitats | 2c17d26b3f6549966b96b88c6129d082c |
-| --- | --- |
-| recreatives de caràcter extraordinari |
- |
-| Comunicació prèvia d&#39;esstabliments no permanents | 125a702426264b300b7e6782ca8eed8f5 |
-| --- | --- |
-| desmuntables. |
- |
-| Llicència municipal d&#39;estabbliments oberts al públic de | 4af40d89b08e471cc83035ca390158da8 |
-| --- | --- |
-| règim especial |
- |
-| Comunicació prèvia d&#39;esstabliments fixos oberts al | aee81c1164374d355a3d7eedee8aca74f |
-| --- | --- |
-| públic d&#39;espectacles públiccs i activitats recreativ es |
- |
-| ordinàries |
- |
-| Llicència d&#39;establiments fixos oberts al públic | c349792547bf41d22a297073dfe8c05aa |
-| --- | --- |
-
-![](RackMultipart20211201-4-asf0r_html_e723e12813a5b5f0.gif) ![](RackMultipart20211201-4-asf0r_html_a3b96545f81d19ae.gif) ![](RackMultipart20211201-4-asf0r_html_e37606e6f7af4459.gif)
-
-29/10/2015
-
-![](RackMultipart20211201-4-asf0r_html_24552053b683ac41.gif) ![](RackMultipart20211201-4-asf0r_html_e7147a6d84cf436.gif)
-
-FUE Local - Integració deel catàleg de tràmits
-
-pàg 6/9
-
-![](RackMultipart20211201-4-asf0r_html_a3a00f0ab5648d2a.gif) ![](RackMultipart20211201-4-asf0r_html_5dd11405cac18881.gif)
-
-| d&#39;espectacles públics i activiitats recreatives ordi nàries |
- |
-| --- | --- |
-| Comunicació prèvia de modificació no substancia | f9b54450001d45b118bd608cab4a7551e |
-| --- | --- |
-| d&#39;una activitat amb efectes sobre les persones o el |
- |
-| medi ambient |
- |
-| Comunicació prèvia de moodificació no substancial d&#39;un | 672098d0ba4b41d0099d964c3eb486e40 |
-| --- | --- |
-| establiment i/o un espectacle o activitat recreativa |
- |
-| Comunicació de transmissiió de llicència o dels efectes | ea8b8e37542e45033a3cbcf02496cf656 |
-| --- | --- |
-| d&#39;una comunicació prèvia |
- |
-| Comunicació prèvia per a espectacles públics o | d41e3fc656e046fc99a3beb8390ce2df2 |
-| --- | --- |
-| activitats recreatives de caràcter extraordinari. |
- |
+| Llicència per a espectaacles públics o activitats recreatives de caràcter extraordinari| 2c17d26b3f6549966b96b88c6129d082c |
+| Comunicació prèvia d&#39;esstabliments no permanents desmuntables. | 125a702426264b300b7e6782ca8eed8f5 |
+| Llicència municipal d&#39;establiments oberts al públic de règim especial  | 4af40d89b08e471cc83035ca390158da8 |
+| Comunicació prèvia d&#39;esstabliments fixos oberts al públic d&#39;espectacles públiccs i activitats recreatives ordinàries | aee81c1164374d355a3d7eedee8aca74f |
+| Llicència d&#39;establiments fixos oberts al públic d&#39;espectacles públics i activitats recreatives ordinàries | c349792547bf41d22a297073dfe8c05aa |
+| Comunicació prèvia de modificació no substancia d&#39;una activitat amb efectes sobre les persones o el medi ambient | f9b54450001d45b118bd608cab4a7551e |
+| Comunicació prèvia de moodificació no substancial d&#39;un  establiment i/o un espectacle o activitat recreativa | 672098d0ba4b41d0099d964c3eb486e40 |
+| Comunicació de transmissiió de llicència o dels efectes d&#39;una comunicació prèvia | ea8b8e37542e45033a3cbcf02496cf656 |
+| Comunicació prèvia per a espectacles públics o activitats recreatives de caràcter extraordinari.| d41e3fc656e046fc99a3beb8390ce2df2 |
 | Declaració responsable en matèria de salut alimentària | fe19dd38e1bc4a6aaaffbd8d654560c6f |
-| --- | --- |
 
-**2.2.2 Codificació de les seccions dels tràmits**** (node **_** seeccions XML **_** )**
+
+### 2.2.2 Codificació de les seccions dels tràmits (node seeccions XML )
 
 | **nomSeccio** | **numIntSecccio** |
 | --- | --- |
@@ -131,39 +78,15 @@ pàg 6/9
 | Silenci administratiu | 39582558b476466bb83949698846f051 |
 | Vies de reclamació | 68f0e84f063243f0bba247f6e1802a0d |
 | Tràmits associats | 478f91f9140d47d490610f5118c55448e |
-
-![](RackMultipart20211201-4-asf0r_html_e723e12813a5b5f0.gif) ![](RackMultipart20211201-4-asf0r_html_a3b96545f81d19ae.gif) ![](RackMultipart20211201-4-asf0r_html_e37606e6f7af4459.gif)
-
-29/10/2015
-
-![](RackMultipart20211201-4-asf0r_html_24552053b683ac41.gif) ![](RackMultipart20211201-4-asf0r_html_e7147a6d84cf436.gif)
-
-FUE Local - Integració deel catàleg de tràmits
-
-pàg 7/9
-
-![](RackMultipart20211201-4-asf0r_html_a3a00f0ab5648d2a.gif) ![](RackMultipart20211201-4-asf0r_html_5dd11405cac18881.gif)
-
 | Altra informació d&#39;interès | 461f7c55290c47fd9046e8744ff24015c |
-| --- | --- |
-| Normativa reguladora del silenci | b02f2f76396c47dd9d5d20f00e6c15e36 |
-| --- | --- |
-| administratiu |
- |
+| Normativa reguladora del silenci administratiu  | b02f2f76396c47dd9d5d20f00e6c15e36 |
 | Codificació del tràmit | e443b3ea426e4ef9bbeba3663019846e7 |
-| --- | --- |
 | Darrera actualització | ac37806b741241f6b6faeddf2296465b |
-| --- | --- |
 | Paraules claus de cerca | 6a3712d100a44a509a7a2b8b4eb040d5 |
-| --- | --- |
 | Procediment vinculat | 0d1b8d20a01243ae91359281a7f9a1dd |
-| --- | --- |
 | Peticions més comunes | 76bb9503c9854bf197bd73f143bb840b |
-| --- | --- |
 | Observacions internes | cd2e4d04f2fd4225870fed8fc9884713 |
-| --- | --- |
 | Passos a seguir per tramitació | 96c36afbe01048efb7efaa133f3fb9ff2 |
-| --- | --- |
 
 L&#39;XML no requereix infoormar obligatòriament totes les seccions anteriors, però per coherència amb la informmació es requerirà, com a mínim, mantenir el mateix nom a la secció, i informar obligatòriament les que estan **en verd** a la taula anterior.
 

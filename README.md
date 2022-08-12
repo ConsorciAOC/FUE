@@ -4,11 +4,23 @@
 
 FUE Local - Integració del catàleg de tràmits
 
-# 1. Introducció
+## INDEX
+
+- [1. Introducció](#1)
+- [2. Implementació](#2)
+   * [2.1 Format del fitxer](#2.1)
+   * [2.2 Relacions a incorporar a l’XML](#2.2)
+		* [2.2.1 Codificació dels tràmits potencials a incloure (node *fitxa XML*) ](#2.2.1)
+		* [2.2.2 Codificació de les seccions dels tràmits (node seccions XML )](#2.2.2)
+- [3. Definició dels camps per a preparar l&#39;XML](#3)
+- [4. Fitxer estàtic d&#39;exemple](#4)
+
+
+# 1. Introducció <a name="1"></a>
 
 L’objectiu d’aquest document és descriure la implementació del mecanisme simplificat que permetrà distribuir el catàleg de tràmits d’un organisme cap a l’AOC i aquest cap a la Finestreta Única Empresarial (FUE) impulsada a Catalunya per la Oficina de Gestió Empresarial (OGE).
 
-# 2. Implementació
+# 2. Implementació <a name="2"></a>
 
 La implementació que haureu de realitzar consisteix en la **publicació d’un fitxer XML estàtic a un servidor web** (Apache, IIS, etc...) que haurà de simular la resposta que s’obtindria des de un Web Service.
 
@@ -17,7 +29,7 @@ D’aquesta manera s’aconsegueix evitar tota tasca de programació i el manten
 
 ![1](captures/1.png)
 
-## 2.1 Format del fitxer
+## 2.1 Format del fitxer <a name="2.1"></a>
 
 A continuació es mostra el format que ha de tenir el fitxer XML a publicar al servidor web.
 
@@ -27,11 +39,11 @@ La part d’XML en color verd correspon a la part del fitxer necessària que des
 
 La part d’XML en color beige correspon a les dades del catàleg que cal personalitzar per cadascun dels tràmits i només està a mode d’exemple.
 
-## 2.2 Relacions a incorporar a l’XML
+## 2.2 Relacions a incorporar a l’XML <a name="2.2"></a>
 
 A continuació es mostra l’equivalència i codificació dels diferents tràmits d’activitats per a què un ens amb solució de tramitació pròpia (que no sigui e-TRAM) pugui exposar el seu catàleg de tràmits a Canal Empresa, via el Consorci AOC.
 
-### 2.2.1 Codificació dels tràmits potencials a incloure (node *fitxa XML*)
+### 2.2.1 Codificació dels tràmits potencials a incloure (node *fitxa XML*) <a name="2.2.1"></a>
 
 | **nomTramit** | **codiTramit** |
 | --- | --- |
@@ -54,7 +66,7 @@ A continuació es mostra l’equivalència i codificació dels diferents tràmit
 | Declaració responsable en matèria de salut alimentària | fe19dd38e1bc4a6aaffbd8d654560c6f |
 
 
-### 2.2.2 Codificació de les seccions dels tràmits (node seccions XML )
+### 2.2.2 Codificació de les seccions dels tràmits (node seccions XML) <a name="2.2.2"></a>
 
 | **nomSeccio** | **numIntSecccio** |
 | --- | --- |
@@ -89,7 +101,7 @@ A continuació es mostra l’equivalència i codificació dels diferents tràmit
 
 L&#39;XML no requereix informar obligatòriament totes les seccions anteriors, però per coherència amb la informmació es requerirà, com a mínim, mantenir el mateix nom a la secció, i informar obligatòriament les que estan amb * a la taula anterior.
 
-## 3. Definició dels camps per a preparar l&#39;XML
+## 3. Definició dels camps per a preparar l&#39;XML <a name="3"></a>
 
 A continuació es mostra la descripció corresponent a cada camp del XML estàtic presentat pel vostre servei.
 
@@ -116,6 +128,6 @@ A continuació es mostra la descripció corresponent a cada camp del XML estàti
 
 
 
-## 4. Fitxer estàtic d&#39;exemple
+## 4. Fitxer estàtic d&#39;exemple <a name="4"></a>
 
 ![3](captures/3.png)

@@ -47,8 +47,8 @@ A continuació es mostra l’equivalència i codificació dels diferents tràmit
 
 | **nomTramit** | **codiTramit** |
 | --- | --- |
-| Declaració responsable d&#39;obertura | 8b4480882a1a497ea49a3d75f678323a |
-| Comunicació prèvia d&#39;obertura | acbb09265b434fa79d0bc41124d2e400 |
+| Comunicació d’inici i modificació substancial d’activitat en un establiment amb certificat tècnic | 8b4480882a1a497ea49a3d75f678323a |
+| Comunicació d’inici i modificació substancial d’activitat en un establiment amb projecte tècnic i certificat | acbb09265b434fa79d0bc41124d2e400 |
 | Comunicació prèvia ambiental municipal (Annex III) | dd0bdc022d1448d687dde442c374efa4 |
 | Llicència ambiental | 8372cb9e38c648f99ed1ccf1b16cf0c9 |
 | Consulta prèvia de classificació de l&#39;activitat | a1094dd3554f410aa0bae5fc7b0e4211 |

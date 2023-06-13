@@ -1,2 +1,827 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/"><Body><transmissioResponse xmlns="http://cat.aoc/etramsge/gateway/ops/"><consultarCatalegResult xmlns="http://cat.aoc/etramsge/gateway/resposta"><correcte>true</correcte><missatgeError>OK</missatgeError><ensPropietari>0811200000</ensPropietari><dadesCataleg><fitxa><codiTramit>20bfaf47d89042caa79e7b41b6497e2b</codiTramit><nomTramit>FUE Certificat de l'acte de comprovació en matèria d'incendis</nomTramit><esTelematic>true</esTelematic><URLTramitAssociat>https://tramits.manlleu.cat/siac/FUE/20bfaf47d89042caa79e7b41b6497e2b</URLTramitAssociat><seccions><seccio><numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio><nomSeccio>Descripció del procediment</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>FUE Certificat de l'acte de comprovació en matèria d'incendis</contingutSeccio></seccio><seccio><numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio><nomSeccio>Objecte</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>És el certificat de l'acte de comprovació en matèria de prevenció d'incendis que s'ha de sol licitar prèviament a la presentació de la comunicació prèvia d'una activitat, quan aquesta estigui inclosa a l'annex d'activitats amb risc d'incendis de l'Ordenança municipal ambiental, de seguretat i salut pública o a l'annex equivalent de l'Ordenança municipal d'espectacles públics i activitats recreatives i no estigui inclosa en els annexes 1 o 2 de la Llei 3/2010, de 18 de febrer.</contingutSeccio></seccio><seccio><numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio><nomSeccio>Òrgan responsable de la resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Ajuntament.</contingutSeccio></seccio><seccio><numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio><nomSeccio>Unitat tramitadora</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Àrea de Serveis Territorials.</contingutSeccio></seccio><seccio><numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio><nomSeccio>Persones destinatàries</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>La persona física o jurídica que vol exercir una o diverses activitats en un mateix centre o establiment, o el seu representant legal. En aquest cas s'ha de declarar la representació amb la qual s'actua.</contingutSeccio></seccio><seccio><numIntSeccio>456c15b8be8745a29086deb728561506</numIntSeccio><nomSeccio>Requisits previs</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Haver realitzat el pagament de la corresponent taxa associada a aquest tràmit, si és el cas.</contingutSeccio></seccio><seccio><numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio><nomSeccio>Import</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>La taxa que estableixi l'ordenança fiscal.</contingutSeccio></seccio><seccio><numIntSeccio>38a7df6244054c39aa049c9177f4d793</numIntSeccio><nomSeccio>Forma de pagament</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Els que estableixi l'ordenança fiscal.</contingutSeccio></seccio><seccio><numIntSeccio>c4172b500a474810b260f3ca736ed467</numIntSeccio><nomSeccio>Termini de resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>El termini per resoldre la petició és d'un mes.</contingutSeccio></seccio><seccio><numIntSeccio>39582558b476466bb83949698846f051</numIntSeccio><nomSeccio>Efectes del silenci administratiu</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Transcorregut el termini d'un mes sense que s'hagi emès el certificat el titular podrà iniciar l'activitat sense perjudici dels efectes que es puguin derivar de l'acte de comprovació quan es dugui a terme.</contingutSeccio></seccio><seccio><numIntSeccio>68f0e84f063243f0bba247f6e1802a0d</numIntSeccio><nomSeccio>Recursos</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Els ordinaris del procediment administratiu.</contingutSeccio></seccio></seccions></fitxa><fitxa><codiTramit>ea8b8e37542e4503a3cbcf02496cf656</codiTramit><nomTramit>FUE Comunicació de canvi de titularitat d'activitats</nomTramit><esTelematic>true</esTelematic><URLTramitAssociat>https://tramits.manlleu.cat/siac/FUE/ea8b8e37542e4503a3cbcf02496cf656</URLTramitAssociat><seccions><seccio><numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio><nomSeccio>Descripció del procediment</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>FUE Comunicació de canvi de titularitat d'activitats</contingutSeccio></seccio><seccio><numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio><nomSeccio>Objecte</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>És el tràmit a través del qual la persona o empresa titular d'una activitat que disposa de llicència o comunicació prèvia vigent, posa en coneixement de l'Ajuntament que transmet el corresponent títol que l'habilitava per exercir l'activitat.  Aquesta comunicació a l'Ajuntament serveix per acreditar la subrogació del nou titular en els drets i deures derivats de la llicència o comunicació prèvia.  No es pot fer aquesta transmissió quan l'activitat sigui objecte d'un procediment d'inspecció o comprovació i control, d'un expedient sancionador o de qualsevol altre procediment d'exigència de responsabilitats administratives, mentre no s'hagi complert la sanció imposada o no s'hagi resolt l'arxiu de l'expedient per manca de responsabilitats.   Tampoc es pot transmetre l'activitat quan es trobi subjecte a un expedient de revocació o caducitat, fins que no hi hagi una resolució ferma.  Pel canvi de titularitat d'activitats subjectes a la Llei 16/2015, del 21 de juliol, de simplificació de l'activitat administrativa, aquest canvi de titularitat es resol mitjançant el tràmit específic de Declaració Responsable d'Obertura, o Comunicació prèvia d'obertura creat a tal efecte.</contingutSeccio></seccio><seccio><numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio><nomSeccio>Òrgan responsable de la resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Ajuntament.</contingutSeccio></seccio><seccio><numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio><nomSeccio>Unitat tramitadora</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Àrea de Serveis Territorials.</contingutSeccio></seccio><seccio><numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio><nomSeccio>Persones destinatàries</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Tant el transmitent com el nou titular.</contingutSeccio></seccio><seccio><numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio><nomSeccio>Import</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Epígraf 5. Procediment de transmissió d'activitats legalitzades: 165,00 euros  Epígraf 9.  Règim d'intervenció administrativa que deriva del Decret 112/2010, de 31 d'agost, pel qual s'aprova el Reglament d'espectacles públics i activitats recreatives.  9.5. Canvi de titularitat dels establiments oberts al públic (transmissió): 175,00 euros</contingutSeccio></seccio><seccio><numIntSeccio>c4172b500a474810b260f3ca736ed467</numIntSeccio><nomSeccio>Termini de resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Un cop efectuada aquesta comunicació, l'Ajuntament actualitzarà les dades en el Registre municipal corresponent.</contingutSeccio></seccio><seccio><numIntSeccio>39582558b476466bb83949698846f051</numIntSeccio><nomSeccio>Efectes del silenci administratiu</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>No opera.</contingutSeccio></seccio><seccio><numIntSeccio>68f0e84f063243f0bba247f6e1802a0d</numIntSeccio><nomSeccio>Recursos</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Els ordinaris del procediment administratiu.</contingutSeccio></seccio><seccio><numIntSeccio>d9577ab1cfa74465832a802aade43a09</numIntSeccio><nomSeccio>Normativa d’interés</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>E.L 12/2012: Llei 12/2012, 26 de desembre, de mesures urgents de lliberalització del comerç que modifica el TRLHL. E.L 20/2009: Llei 20/2009, de 4 de desembre, de prevenció i control ambiental de les activitats.E.L 11/2009: Llei 11/2009, de 6 de juliol, de regulació administrativa dels espectacles públics i les activitats recreatives.E.D 112/2010: Decret 112/2010, de 31 d'agost, pel que s'aprova el Reglament d'espectacles públics i activitats recreatives.I.OM inte amb seg salut púb: &lt;a href="https://tramits.manlleu.cat/siac/PublicacionTabs.aspx?tab=6&amp;id=1789&amp;t=NO&amp;x=vfvD+bpUKtPTUpSAH7/7fQ"&gt;Ordenança d'intervenció municipal ambiental, de seguretat i de salut pública&lt;/a&gt;I.OM int espectacles públics: &lt;a href="https://tramits.manlleu.cat/siac/PublicacionTabs.aspx?tab=6&amp;id=1788&amp;t=NO&amp;x=3XjL0c5pPKqI9RDwY2wBmQ"&gt;Ordenança d'intervenció municipal en espectacles públics i activitats recreatives&lt;/a&gt;</contingutSeccio></seccio><seccio><numIntSeccio>8c8e9b4bc5a047509bf1c5dade99a4fd</numIntSeccio><nomSeccio>Documentació complementària</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Annex I. Comunicació conjunta de canvi de titularitat d'activitatsDeclaració responsable en matèria de salut alimentària, si és un establiment afectat pel Real Decret Llei 191/2011 (si escau).</contingutSeccio></seccio></seccions></fitxa><fitxa><codiTramit>dd0bdc022d1448d687dde442c374efa4</codiTramit><nomTramit>FUE Comunicació prèvia ambiental municipal (Annex III)</nomTramit><esTelematic>true</esTelematic><URLTramitAssociat>https://tramits.manlleu.cat/siac/FUE/dd0bdc022d1448d687dde442c374efa4</URLTramitAssociat><seccions><seccio><numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio><nomSeccio>Descripció del procediment</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>FUE Comunicació prèvia ambiental municipal (Annex III)</contingutSeccio></seccio><seccio><numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio><nomSeccio>Objecte</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>És el règim d'intervenció a través del qual les persones o empreses titulars d'una activitat, posen en coneixement de l'ajuntament fets o elements relatius a l'inici d'una activitat sota la seva responsabilitat, tot indicant els aspectes que la poden condicionar, i que s'acompanya dels documents necessaris per al seu exercici.  Se sotmeten a aquest règim les activitats relacionades a l'Annex III de la Llei 20/2009, de 4 de desembre, de prevenció i control ambiental de les activitats (LPCAA) i les activitats consistents en unitats tècniques mòbils de caràcter temporal associades a obres d'infrastructures públiques o privades, o a activitats de tractament de residus, o a instal lacions similars de l'annex II de l'esmentada Llei, sempre que, com a activitats independents i per les seves característiques, no estiguin associades a un emplaçament fix ni tinguin la condició d'activitats estables.</contingutSeccio></seccio><seccio><numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio><nomSeccio>Òrgan responsable de la resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Ajuntament.</contingutSeccio></seccio><seccio><numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio><nomSeccio>Unitat tramitadora</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Àrea de Serveis Territorials</contingutSeccio></seccio><seccio><numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio><nomSeccio>Persones destinatàries</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>La persona física o jurídica que vol exercir una o diverses activitats en un mateix centre o establiment, o el seu representant legal. En aquest cas s'ha de declarar la representació amb la qual s'actua.</contingutSeccio></seccio><seccio><numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio><nomSeccio>Import</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>2014  Epígraf 1. Expedients de comunicació prèvia i sol licituds.  1.3. Comprovació de comunicació prèvia ambiental municipal: 425,00 euros.</contingutSeccio></seccio><seccio><numIntSeccio>d9577ab1cfa74465832a802aade43a09</numIntSeccio><nomSeccio>Normativa d’interés</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>E.L 20/2009: Llei 20/2009, de 4 de desembre, de prevenció i control ambiental de les activitats.</contingutSeccio></seccio><seccio><numIntSeccio>8c8e9b4bc5a047509bf1c5dade99a4fd</numIntSeccio><nomSeccio>Documentació complementària</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Acreditació d'haver obtingut la llicència d'obres o d'haver presentat la comunicació prèvia d'obres quan procedeixi, o bé d'haver obtingut l'informe urbanístic favorable.Autorització d'abocaments d'aigües residuals a la llera pública o al mar, quan  procedeixi.Certificació general tècnica acreditativa que l'activitat i les seves instal lacions s'ajusten al projecte bàsic o la memòria ambiental i compleixen tots els requisits ambientals exigibles. Aquesta certificació anirà signada per personal tècnic competent o bé pel director de l'execució del projecte.Certificacions ambientals específiques establertes a l'ordenança per aquells casos que l'activitat generi emissions de gasos o fums, sorolls o vibracions, llums a l'exterior en horari nocturn, aigua contaminada i/o residus no assimilables. Aquestes certificacions específiques podran ser lliurades per una entitat col laboradora de l'Administració.Declaració de les dades que, segons la persona sol licitant, gaudeixen de confidencialitat d'acord amb la legislació, amb especificació de la Llei en la qual s'empara, si escau.Declaració d'impacte ambiental, sigui la seva resolució administrativa relativa a la no necessitat o, en el seu cas, la declaració d'impacte ambiental favorable o la indicació de la seva publicació, si escau.Declaració responsable conforme es disposa de pòlissa o contracte d'assegurances o altres garanties que donen cobertura a la responsabilitat ambiental de l'activitat, si escau.Declaració responsable en matèria de comerç pels establiments subjectes al Decret Llei 1/2009, si no s'ha presentat amb la llicència o comunicació.Declaració responsable en matèria de salut alimentària, si és un establiment afectat pel Real Decret Llei 191/2011 (si escau).En cas d'actuar com a representant legal, declarar que es disposa de tots els poders necessaris per a presentar la comunicació i rebre, si escau, les corresponents comunicacions i /o notificacions.En matèria de seguretat, certificat de l'acte de comprovació favorable en matèria d'incendis emès per una entitat col laboradora de l'Administració o la seva referència si aquest ha estat emès pels serveis tècnics municipals si es tracta d'activitats, instal lacions o establiments incloses a l'annex d'activitats amb risc d'incendis de l'Ordenança municipal d'intervenció ambiental, de seguretat i de salut pública.En matèria de seguretat, document acreditatiu d'haver realitzat el control preventiu en matèira d'incendis i el certificat de l'acte de comprovació favorable en matèria d'incendis si es tracta d'activitats incloses als annexos 1 o 2 de la Llei 3/2010.Llicències, autoritzacions o concessions relatives a la utilització o aprofitament de béns del domini públic, si escau (referència a aquestes, si es tracta de domini públic municipal).Pla de dejeccions ramaderes, en cas d'activitats ramaderes amb el conseqüent informe favorable emès pel Departament competent en matèria d'agricultura i ramaderia.Projecte bàsic i/o memòria ambiental.</contingutSeccio></seccio></seccions></fitxa><fitxa><codiTramit>672098d0ba4b41d099d964c3eb486e40</codiTramit><nomTramit>FUE Comunicació prèvia de modificació no substancial d'un establiment i/o un espectacle o activitat recreativa</nomTramit><esTelematic>true</esTelematic><URLTramitAssociat>https://tramits.manlleu.cat/siac/FUE/672098d0ba4b41d099d964c3eb486e40</URLTramitAssociat><seccions><seccio><numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio><nomSeccio>Descripció del procediment</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>FUE Comunicació prèvia de modificació no substancial d'un establiment i/o un espectacle o activitat recreativa</contingutSeccio></seccio><seccio><numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio><nomSeccio>Objecte</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>És el tràmit a través del qual la persona o empresa titular d'una activitat que disposa de llicència o comunicació prèvia vigent, posa en coneixement de l'Ajuntament que procedeix a realitzar-hi una modificació no substancial.  Modificació no substancial dels establiments i de les seves instal lacions: Les modificacions dels establiments i de les seves instal lacions, ja sigui per transformació, adaptació o reforma, ampliació o reducció, estan sotmeses a aquesta comunicació prèvia quan siguin no substancials (excepte gran rehabilitació) d'acord amb el què disposa el Codi tècnic de l'edificació. En cas que, segons el que disposa l'esmentat Codi tècnic, la modificació sigui substancial (gran rehabilitació), caldrà sol licitar una nova llicència o autorització o presentar una nova comunicació prèvia.  Modificació no substancial d'espectacles públics o activitats recreatives inclosos en la llicència o comunicació prèvia:  La persona organitzadora o titular de l'establiment ha de formalitzar comunicació prèvia de la modificació a l'Ajuntament que ha atorgat la llicència o davant del qual ha presentat la comunicació prèvia, si el nou espectacle o la nova activitat recreativa amb la que es vol modificar la llicència o la comunicació prèvia no estan sotmeses a requeriments addicionals als exigits inicialment. En els altres casos, l'ampliació o la modificació de la llicència o la comunicació prèvia de l'establiment, per tal d'incloure-hi nous espectables o activitats recreatives, estarà subjecta a l'obtenció d'una nova llicència o la formalització d'una nova comunicació prèvia.</contingutSeccio></seccio><seccio><numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio><nomSeccio>Òrgan responsable de la resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Ajuntament.</contingutSeccio></seccio><seccio><numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio><nomSeccio>Unitat tramitadora</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Àrea de Serveis Territorials.</contingutSeccio></seccio><seccio><numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio><nomSeccio>Persones destinatàries</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>La persona física o jurídica titular d'una activitat o el seu representant legal. En aquest cas s'ha de declarar la representació amb la qual s'actua.</contingutSeccio></seccio><seccio><numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio><nomSeccio>Import</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>2014  Epígraf 9. Règim d'intervenció administrativa que deriva del Decret 112/2010, de 31 d'agost, pel qual s'aprova el Reglament d'espectacles públics i activitats recreatives.  9.4. Procediment de comprovació de la comunicació prèvia.  a) Modificació no substancial dels establiments oberts al públic que comptin amb la llicència municipal corresponent: 212,50 euros  e) Modificació dels espectacles públics o les activitats recreatives incloses en la llicència municipal o en la comunicació prèvia d'un establiment obert al públic, quan aquesta variació està subjecte al procediment de comunicació prèvia: 160,00 euros</contingutSeccio></seccio><seccio><numIntSeccio>c4172b500a474810b260f3ca736ed467</numIntSeccio><nomSeccio>Termini de resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>No hi ha resolució.  Les comunicacions presentades d'acord al que estableix la normativa vigent, són eficaces des de la seva entrada al Registre general de l'Ajuntament, moment a partir del qual es pot exercir l'activitat comunicada. La presentació de la comunicació faculta l'Ajuntament per a verificar la conformitat de les dades que s'hi contenen.  Un cop efectuada la comunicació per part del titular de l'activitat, l'Ajuntament la inscriurà al Registre municipal d'activitats. A l'esmentat Registre hi constarà que l'activitat ha estat comunicada i, en conseqüència, que ha iniciat el seu funcionament.</contingutSeccio></seccio><seccio><numIntSeccio>39582558b476466bb83949698846f051</numIntSeccio><nomSeccio>Efectes del silenci administratiu</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>No opera.</contingutSeccio></seccio><seccio><numIntSeccio>68f0e84f063243f0bba247f6e1802a0d</numIntSeccio><nomSeccio>Recursos</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Els ordinaris del procediment administratiu.</contingutSeccio></seccio></seccions></fitxa><fitxa><codiTramit>f9b54450001d45b18bd608cab4a7551e</codiTramit><nomTramit>FUE Comunicació prèvia de modificació no substancial d'una activitat amb efectes sobre les persones o el medi ambient</nomTramit><esTelematic>true</esTelematic><URLTramitAssociat>https://tramits.manlleu.cat/siac/FUE/f9b54450001d45b18bd608cab4a7551e</URLTramitAssociat><seccions><seccio><numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio><nomSeccio>Descripció del procediment</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>FUE Comunicació prèvia de modificació no substancial d'una activitat amb efectes sobre les persones o el medi ambient</contingutSeccio></seccio><seccio><numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio><nomSeccio>Objecte</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>És el tràmit a través del qual la persona o empresa titular d'una activitat que disposa de llicència o comunicació prèvia vigent, posa en coneixement de l'Ajuntament que procedeix a realitzar-hi una modificació no substancial.  Els criteris per a qualificar la modificació de no substancial, són els disposats a l'annex II.1 de l'Ordenança d'intervenció municipal ambiental, de seguretat i de salut pública.  Modificació no substancial: amb o sense efectes sobre les persones o el medi ambient.  D' ACTIVITAT SOTMESA A LLICÈNCIA:  La modificació no substancial amb efectes, s'ha de comunicar a l'Ajuntament. Aquesta modificació es podrà dur a terme si l'òrgan ambiental considera la modificació no substancial o bé si no es pronuncia en el termini d'un mes.  La comunicació d'aquesta modificació, es farà compliment les dades i la documentació previstes en l'annex II.2 de l'esmentada Ordenança municipal.  La modificació no substancial sense efectes per a les persones o el medi ambient ha de figurar a les actes de control periòdic i no està subjecta a aquesta comunicació.  D'ACTIVITAT SOTMESA A COMUNICACIÓ PRÈVIA:  La modificació d'una activitat sotmesa a comunicació prèvia ha de ser comunicada a l'Ajuntament, quan pugui tenir efectes previsibles sobre les persones o el medi ambient.  El els altres casos, l'ampliació o la modificació de la llicència o la comunicació prèvia estarà subjecta a l'obtenció d'una nova llicència o la formalització d'una nova comunicació prèvia.</contingutSeccio></seccio><seccio><numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio><nomSeccio>Òrgan responsable de la resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Ajuntament.</contingutSeccio></seccio><seccio><numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio><nomSeccio>Unitat tramitadora</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Àrea de Serveis Territorials.</contingutSeccio></seccio><seccio><numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio><nomSeccio>Persones destinatàries</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>La persona física o jurídica titular d'una activitat o el seu representant legal. En aquest cas s'ha de declarar la representació amb la qual s'actua.</contingutSeccio></seccio><seccio><numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio><nomSeccio>Import</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>2014  Epígraf 4. Procediments d'incorporació de canvis no substancials de l'activitat o instal lació.  4.1. Comprovació de modificacions no substancials d'activitats sotmeses al règim de comunicació ambiental municipal: 378,00  4.2. Comprovació de la comunicació de canvis no substancials amb incidència ambiental de les activitats i instal lacions subjectes a llicència ambiental de més de 500 m2 (Annex II): 630,00  4.3. Comprovació de la comunicació de canvis no substancials amb incidència ambiental de les activitats i instal lacions subjectes a llicència ambiental de menys de 500 m2 (Annex II): 505,00  4.4. Comprovació de la comunicació de canvis no substancials amb incidència ambiental de les activitats i instal lacions subjectes a llicència ambiental (Annex I): 975,00</contingutSeccio></seccio><seccio><numIntSeccio>c4172b500a474810b260f3ca736ed467</numIntSeccio><nomSeccio>Termini de resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Dins del mes següent a la data de la comunicació, l'Ajuntament ha de resoldre, motivadament si es tracta d'una modificació no substancial o substancial.  Si en la modificació no substancial amb efectes sobre el medi ambient s'incorporen nous focus d'emissions, la resolució que determina que la modificació no és substancial podrà concretar els límits d'aquestes emissions, si aquests límits no estan fixats per la normativa sectorial.  Si l'òrgan ambiental considera que la modificació és substancial no es podrà dur a terme fins que s'hagi atorgat una nova llicència.</contingutSeccio></seccio><seccio><numIntSeccio>39582558b476466bb83949698846f051</numIntSeccio><nomSeccio>Efectes del silenci administratiu</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Si transcorre més d'un mes des de la data de la comunicació sense que s'adopti cap resolució municipal al respecte, es podrà dur a terme la modificació no substancial.</contingutSeccio></seccio><seccio><numIntSeccio>68f0e84f063243f0bba247f6e1802a0d</numIntSeccio><nomSeccio>Recursos</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Els ordinaris del procediment administratiu.</contingutSeccio></seccio><seccio><numIntSeccio>d9577ab1cfa74465832a802aade43a09</numIntSeccio><nomSeccio>Normativa d’interés</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>E.L 20/2009: Llei 20/2009, de 4 de desembre, de prevenció i control ambiental de les activitats.</contingutSeccio></seccio></seccions></fitxa><fitxa><codiTramit>acbb09265b434fa79d0bc41124d2e400</codiTramit><nomTramit>FUE Comunicació prèvia d'obertura</nomTramit><esTelematic>true</esTelematic><URLTramitAssociat>https://tramits.manlleu.cat/siac/FUE/acbb09265b434fa79d0bc41124d2e400</URLTramitAssociat><seccions><seccio><numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio><nomSeccio>Descripció del procediment</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>FUE Comunicació prèvia d'obertura</contingutSeccio></seccio><seccio><numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio><nomSeccio>Objecte</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Mitjançant la Comunicació prèvia d'obertura l'interessat posa en coneixement de l'administració l'inici d'una activitat econòmica de baix risc, de les incloses en l'Annex II de la Llei de simplificació, i acompanya el projecte i certificat tècnics necessaris per al seu exercici.  En el cas de presentar la modalitat de "canvi de titularitat" no serà necessari adjuntar de nou la documentació tècnica associada.</contingutSeccio></seccio><seccio><numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio><nomSeccio>Òrgan responsable de la resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Ajuntament.</contingutSeccio></seccio><seccio><numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio><nomSeccio>Unitat tramitadora</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Àrea de Serveis Territorials.</contingutSeccio></seccio><seccio><numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio><nomSeccio>Persones destinatàries</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>La persona física o jurídica que vol exercir una o diverses activitats en un mateix centre o establiment, o el seu representant legal. En aquest cas s'ha de declarar la representació amb l qual s'actua.</contingutSeccio></seccio><seccio><numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio><nomSeccio>Import</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>2014  Epígraf 1. Expedients de comunicació prèvia i sol licituds.  1.2. Comunicació prèvia d'obertura: 296,00 euros.</contingutSeccio></seccio><seccio><numIntSeccio>c4172b500a474810b260f3ca736ed467</numIntSeccio><nomSeccio>Termini de resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>No hi ha resolució.  Les comunicacions prèvies presentades d'acord amb el que estableix la normativa vigent, són eficaces des de la seva entrada al Registre general de l'Ajuntament, moment a partir del qual es pot exercir l'activitat comunicada, sempre que es disposi del comprovant de pagament de les taxes corresponents. La presentació de la comunicació prèvia faculta l'Ajuntament per verificar la conformitat de les dades que s'hi contenen.</contingutSeccio></seccio><seccio><numIntSeccio>39582558b476466bb83949698846f051</numIntSeccio><nomSeccio>Efectes del silenci administratiu</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>No opera.</contingutSeccio></seccio><seccio><numIntSeccio>68f0e84f063243f0bba247f6e1802a0d</numIntSeccio><nomSeccio>Recursos</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Els ordinaris del procediment administratiu.</contingutSeccio></seccio><seccio><numIntSeccio>d9577ab1cfa74465832a802aade43a09</numIntSeccio><nomSeccio>Normativa d’interés</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>E.L 16/2015: Llei 16/2015, de 21 de juliol, de simplificació de l'activitat adminsitrativa de l'Administració de la Generalitat i dels governs locals de Catalunya i d'impuls de l'activitat econòmicaE.L 3/2010: Llei 3/2010, de 18 de febrer, de prevenció i seguretat en matèria d'incendis</contingutSeccio></seccio><seccio><numIntSeccio>8c8e9b4bc5a047509bf1c5dade99a4fd</numIntSeccio><nomSeccio>Documentació complementària</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Acreditació d'haver obtingut la llicència d'obres o d'haver presentat la comunicació prèvia d'obres quan procedeixi.Autorització d'abocaments d'aigües residuals a la llera pública o al mar, quan  procedeixi.Llicències, autoritzacions o concessions relatives a la utilització o aprofitament de béns del domini públic, si escau (referència a aquestes, si les atorga l'Ajuntament).</contingutSeccio></seccio></seccions></fitxa><fitxa><codiTramit>aee81c1164374d35a3d7eedee8aca74f</codiTramit><nomTramit>FUE Comunicació prèvia municipal d'establiments fixos oberts al públic, d'espectacles públics i activitats recreatives ordinàries</nomTramit><esTelematic>true</esTelematic><URLTramitAssociat>https://tramits.manlleu.cat/siac/FUE/aee81c1164374d35a3d7eedee8aca74f</URLTramitAssociat><seccions><seccio><numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio><nomSeccio>Descripció del procediment</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>FUE Comunicació prèvia municipal d'establiments fixos oberts al públic, d'espectacles públics i activitats recreatives ordinàries</contingutSeccio></seccio><seccio><numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio><nomSeccio>Objecte</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>És el règim d'intervenció a través del qual la persona o empresa que vol posar en funcionament un establiment fix obert al públic, d'espectacles públics o activitats recreatives ordinàries, ho posa en coneixement de l'Ajuntament i acompanya la documentació que acredita el compliment dels requisits que exigeix la normativa aplicable.  Se sotmeten a aquest règim els establiments on es duen a terme activitats incloses al Decret 112/2010, de 31 d'agost, que aprova el Reglament d'espectacles públics i activitats recreatives que ni aquest Decret ni l'Ordenança d'intervenció municipal en espectacles públics i activitats recreatives subjecten a llicència.  També està subjecta a comunicació prèvia d'espectacles la modificació no substancial d'un establiment obert al públic o activitat recreativa que compti amb la llicència municipal corresponent o que s'hagi legalitzat mitjançant comunicació.</contingutSeccio></seccio><seccio><numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio><nomSeccio>Òrgan responsable de la resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Ajuntament.</contingutSeccio></seccio><seccio><numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio><nomSeccio>Unitat tramitadora</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Àrea de Serveis Territorials.</contingutSeccio></seccio><seccio><numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio><nomSeccio>Persones destinatàries</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Les persones físiques o jurídiques que volen posar en funcionament un establiment fix obert al públic, d'espectacles públics o activitats recreatives ordinàries o, el seu representant legal. En aquest cas s'ha de declarar la representació amb la qual s'actua.</contingutSeccio></seccio><seccio><numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio><nomSeccio>Import</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>2014  Epígraf 9. Règim d'intervenció administrativa que deriva del Decret 112/2010, de 31 d'agost, pel qual s'aprova el Reglament d'espectacles públics i activitats recreatives  9.4. Procediment de comprovació de la comunicació prèvia.  b) Obertura d'establiments oberts al públic destinats a espectacles cinematogràfics: 212,50 euros  c) Obertura d'establiments oberts al públic destinats a espectacles públics i activitats recreatives musicals amb un aforament autoritzat fins a 150 persones: 425,00  d) Obertura d'estbliments oberts al públic d'activitats de restauració amb un aforament autoritzat fins a 150 persones i sempre que no disposin de terrassa o qualsevol altre espai complementari a l'aire lliure: 425,00</contingutSeccio></seccio><seccio><numIntSeccio>c4172b500a474810b260f3ca736ed467</numIntSeccio><nomSeccio>Termini de resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>No hi ha resolució.  Les comunicacions presentades d'acord al que estableix la normativa vigent, són eficaces des de la seva entrada al Registre general de l'Ajuntament, moment a partir del qual es pot exercir l'activitat comunicada. La presentació de la comunicació faculta l'Ajuntament per a verificar la conformitat de les dades que s'hi contenen.  Un cop efectuada la comunicació per part del titular de l'activitat, l'Ajuntament la inscriurà al Registre municipal d'activitats. A l'esmentat Registre hi constarà que l'activitat ha estat comunicada i, en conseqüència, que ha iniciat el seu funcionament.</contingutSeccio></seccio><seccio><numIntSeccio>39582558b476466bb83949698846f051</numIntSeccio><nomSeccio>Efectes del silenci administratiu</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>No opera.</contingutSeccio></seccio><seccio><numIntSeccio>68f0e84f063243f0bba247f6e1802a0d</numIntSeccio><nomSeccio>Recursos</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Els ordinaris del procediment administratiu.</contingutSeccio></seccio><seccio><numIntSeccio>8c8e9b4bc5a047509bf1c5dade99a4fd</numIntSeccio><nomSeccio>Documentació complementària</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Acreditació d'haver obtingut la llicència d'obres o d'haver presentat la comunicació prèvia d'obres quan procedeixi.Autorització d'abocaments d'aigües residuals a la llera pública o al mar, quan  procedeixi.Certificacions ambientals específiques, si escau, relatives a les emissions de sorolls o vibracions, i lluminosa a l'exterior en horari nocturn o d'altres afectacions ambientals que concorrin en l'activitat.Declaració de les dades que, segons la persona sol licitant, gaudeixen de confidencialitat d'acord amb la legislació, amb especificació de la Llei en la qual s'empara, si escau.Declaració responsable en matèria de salut alimentària, si és un establiment afectat pel Real Decret Llei 191/2011 (si escau).Documentació tècnica, presentada en forma de memòria o estudi ambiental requerida per la normativa sobre sorolls, escalfament, contaminació acústica, residus i vibracions i, en tot cas, la que determini la normativa sobre prevenció i control ambiental segons correspongui en funció de les caracterísiques de l'establiment i de les activitats a desenvolupar-hi.En matèria de seguretat:  1. Document acreditatiu d'haver realitzat el control preventiu en matèria d'incendis i el certificat de l'acte de comprovació favorable en matèria d'incendis si es tracta d'activitats incloses als annexos 1 o 2 de la Llei 3/2010.  2. Certificat de l'acte de comprovació favorable en matèria d'incendis emès per una entitat col laboradora de l'Administració o la seva referència si aquest ha estat emès pels serveis tècnics municipals si es tracta d'activitats, instal lacions o establiments incloses a l'annex II d'activitats amb risc d'incendis de l'Ordenança d'intervenció municipal en espectacles públics i activitats recreatives.  3. En la resta d'activitats o establiments, certificat del tècnic responsable de la instal lació que es compleixen els requisits i les condicions de prevenció i de seguretat en matèria d'incendis exigides per les normes reguladores de les activitats recreatives i els espectacles públics i per la resta de normes d'aplicació.Llicències, autoritzacions o concessions relatives a la utilització o aprofitament de béns del domini públic, si escau (referència a aquestes, si les atorga l'Ajuntament).Si l'activitat s'ha d'emplaçar en un espai natural protegit, referència a la declaració d'impacte ambiental o a  la resolució de la ponència ambiental de la Generalitat que no hi ha necessitat d'avaluació d'impacte ambiental.</contingutSeccio></seccio></seccions></fitxa><fitxa><codiTramit>125a702426264b30b7e6782ca8eed8f5</codiTramit><nomTramit>FUE Comunicació prèvia municipal d'establiments no permanents desmuntables</nomTramit><esTelematic>true</esTelematic><URLTramitAssociat>https://tramits.manlleu.cat/siac/FUE/125a702426264b30b7e6782ca8eed8f5</URLTramitAssociat><seccions><seccio><numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio><nomSeccio>Descripció del procediment</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>FUE Comunicació prèvia municipal d'establiments no permanents desmuntables</contingutSeccio></seccio><seccio><numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio><nomSeccio>Objecte</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>És el règim d'intervenció a tramés del qual les persones o empreses interessades en l'obertura d'un establiment no permanent desmuntable, han de posar en coneixement de l'ajuntament els requisits o elements relatius a l'obertura d'un establiment d'aquest tipus on es preveu celebrar espectacle públics o activitats recreatives.  Se sotmenten a aquest règim els locals o les construccions conformats per estructures desmuntables o per instal lacions fixes portàtils, constituïdes per mòduls o elements metàl lics, de fusta o qualsevol altre material que permeti operacions de muntatge, desmuntatge o trasllat, amb caràcter itinerant o sense. Poden ser coberts totalment o parcialment, i oberts o tancats (annex I punt VI.1.b) del Decret 112./2010, de 31 d'agost).</contingutSeccio></seccio><seccio><numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio><nomSeccio>Òrgan responsable de la resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Ajuntament.</contingutSeccio></seccio><seccio><numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio><nomSeccio>Unitat tramitadora</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Àrea Serveis Territorials.</contingutSeccio></seccio><seccio><numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio><nomSeccio>Persones destinatàries</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>La persona física o jurídica que vol obrir un establiment, local o construcció, no permanent desmuntable, per a realitzar-hi espectacles públics o activitats recreatives. Es podrà fer a través de representant legal, amb declaració de la representació amb la qual s'actua.</contingutSeccio></seccio><seccio><numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio><nomSeccio>Import</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>2014  Epígraf 9. Règim d'intervenció administrativa que deriva del Decret 112/2010, de 31 d'agost, pel qual s'aprova el Reglament d'espectacles públics i activitats recreatives.  9.1. Procediment de llicència municipal d'establiments oberts al públic  c) Comunicació prèvia municipal d'establiments no permanents desmuntables: 290,00 euros.</contingutSeccio></seccio><seccio><numIntSeccio>c4172b500a474810b260f3ca736ed467</numIntSeccio><nomSeccio>Termini de resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>No hi ha resolució.</contingutSeccio></seccio><seccio><numIntSeccio>39582558b476466bb83949698846f051</numIntSeccio><nomSeccio>Efectes del silenci administratiu</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>No opera.</contingutSeccio></seccio><seccio><numIntSeccio>68f0e84f063243f0bba247f6e1802a0d</numIntSeccio><nomSeccio>Recursos</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Els ordinaris del procediment administratiu.</contingutSeccio></seccio><seccio><numIntSeccio>d9577ab1cfa74465832a802aade43a09</numIntSeccio><nomSeccio>Normativa d’interés</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>E.L 11/2009: Llei 11/2009, de 6 de juliol, de regulació administrativa dels espectacles públics i les activitats recreatives.E.D 112/2010: Decret 112/2010, de 31 d'agost, pel que s'aprova el Reglament d'espectacles públics i activitats recreatives.I.OM int espectacles públics: &lt;a href="https://tramits.manlleu.cat/siac/PublicacionTabs.aspx?tab=6&amp;id=1788&amp;t=NO&amp;x=3XjL0c5pPKqI9RDwY2wBmQ"&gt;Ordenança d'intervenció municipal en espectacles públics i activitats recreatives&lt;/a&gt;</contingutSeccio></seccio><seccio><numIntSeccio>8c8e9b4bc5a047509bf1c5dade99a4fd</numIntSeccio><nomSeccio>Documentació complementària</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Autorització d'abocament a la llera pública o al mar, si és el cas.Autorització per a l'ocupació del domini públic on es volen ubicar les instal lacions no permanents desmuntables.Declaració repsonsable de la contractació d'una assegurança de responsabilitat civil que cobreixi el risc i en la qual es faci constar les quanties contractades, acompanyada del rebut vigent, d'acord amb el Decret 112/2010, de 31 d'agost (article 83).Declaració responsable de la persona titular de la disponibilitat de la finca o local, si és el cas.Declaració responsable del fet que l'establiment o l'activitat compleix els requisits establerts per l'Ordenança i la normativa vigent d'aplicació.Informe i certificació de la Generalitat en matèria d'incendis, d'acord amb el que disposa l'article 23 de la Llei 3/2010, de 18 de febrer.</contingutSeccio></seccio></seccions></fitxa><fitxa><codiTramit>d41e3fc656e046fc9a3beb8390ce2df2</codiTramit><nomTramit>FUE Comunicació prèvia municipal per a espectacles públics o activitats recreatives de caràcter extraordinari</nomTramit><esTelematic>true</esTelematic><URLTramitAssociat>https://tramits.manlleu.cat/siac/FUE/d41e3fc656e046fc9a3beb8390ce2df2</URLTramitAssociat><seccions><seccio><numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio><nomSeccio>Descripció del procediment</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>FUE Comunicació prèvia municipal per a espectacles públics o activitats recreatives de caràcter extraordinari</contingutSeccio></seccio><seccio><numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio><nomSeccio>Objecte</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>És el règim d'intervenció a través del qual la persona o empresa que vol realitzar un espectacle públic o activitat recreativa de caràcter extraorinari, ho posa en coneixement de l'Ajuntament i acompanya la documentació que acredita el compliment dels requisits que exigeix la normativa aplicable.  Se sotmeten a aquest règim els espectacles públics i activitats recreatives de caràcter extraordinari, següents:  - Els que es duen a terme amb motiu de festes o revetlles populars. - Els que siguin d'interès artístic o cultural amb un aforament reduït de menys de 150 persones, en el cas que es duguin a terme ocasionalment en espais oberts al públic i activitats recreatives i a l'annex I de l'Ordenança d'intervenció municipal.</contingutSeccio></seccio><seccio><numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio><nomSeccio>Òrgan responsable de la resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Ajuntament.</contingutSeccio></seccio><seccio><numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio><nomSeccio>Unitat tramitadora</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Àrea de Serveis Territorials.</contingutSeccio></seccio><seccio><numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio><nomSeccio>Persones destinatàries</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>La persona  física o jurídica que vol dur a terme l'espectacle públic o activitat recreativa extraordinaris o el seu representant legal. En aquest darrer cas s'ha de declarar la representació amb la qual s'actua.</contingutSeccio></seccio><seccio><numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio><nomSeccio>Import</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>2014  Epígraf 9. Règim d'inervenció administrativa que deriva del Decret 112/2010, de 31 d'agost, pel qual s'aprova el Reglament d'espectacles públics i activitats recreatives.  9.2. Comunicació prèvia municipal per espectacles públics o activitats recreatives de caràcter extraordinari: 163,50 euros</contingutSeccio></seccio><seccio><numIntSeccio>c4172b500a474810b260f3ca736ed467</numIntSeccio><nomSeccio>Termini de resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>No hi ha resolució.</contingutSeccio></seccio><seccio><numIntSeccio>39582558b476466bb83949698846f051</numIntSeccio><nomSeccio>Efectes del silenci administratiu</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>No opera.</contingutSeccio></seccio><seccio><numIntSeccio>68f0e84f063243f0bba247f6e1802a0d</numIntSeccio><nomSeccio>Recursos</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Els ordinaris del procediment administratiu.</contingutSeccio></seccio><seccio><numIntSeccio>d9577ab1cfa74465832a802aade43a09</numIntSeccio><nomSeccio>Normativa d’interés</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>E.L 11/2009: Llei 11/2009, de 6 de juliol, de regulació administrativa dels espectacles públics i les activitats recreatives.E.D 112/2010: Decret 112/2010, de 31 d'agost, pel que s'aprova el Reglament d'espectacles públics i activitats recreatives.I.OM int espectacles públics: &lt;a href="https://tramits.manlleu.cat/siac/PublicacionTabs.aspx?tab=6&amp;id=1788&amp;t=NO&amp;x=3XjL0c5pPKqI9RDwY2wBmQ"&gt;Ordenança d'intervenció municipal en espectacles públics i activitats recreatives&lt;/a&gt;</contingutSeccio></seccio></seccions></fitxa><fitxa><codiTramit>a1094dd3554f410aa0bae5fc7b0e4211</codiTramit><nomTramit>FUE Consulta prèvia de classificació de l'activitat</nomTramit><esTelematic>true</esTelematic><URLTramitAssociat>https://tramits.manlleu.cat/siac/FUE/a1094dd3554f410aa0bae5fc7b0e4211</URLTramitAssociat><seccions><seccio><numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio><nomSeccio>Descripció del procediment</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>FUE Consulta prèvia de classificació de l'activitat</contingutSeccio></seccio><seccio><numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio><nomSeccio>Objecte</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Aquest tràmit permet a les persones o empreses que pretenen realitzar una activitat, fer una consulta sobre la classificació d'aquesta i per tant de la tramitació administrativa municipal que li és d'aplicació.</contingutSeccio></seccio><seccio><numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio><nomSeccio>Òrgan responsable de la resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Ajuntament.</contingutSeccio></seccio><seccio><numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio><nomSeccio>Unitat tramitadora</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Àrea de Serveis Territorials.</contingutSeccio></seccio><seccio><numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio><nomSeccio>Persones destinatàries</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Les persones físiques o jurídiques que volen exercir una o diverses activitats en un mateix centre o establiment, o el seu representant legal. En aquet cas s'ha de declarar la representació amb la qual s'actua.</contingutSeccio></seccio><seccio><numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio><nomSeccio>Import</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>2014  Epígraf 8. Procediment de consulta prèvia potestativa: 113,50 euros</contingutSeccio></seccio><seccio><numIntSeccio>c4172b500a474810b260f3ca736ed467</numIntSeccio><nomSeccio>Termini de resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>No hi ha resolució.  Es procedirà a la resposta en el termini màxim d'un mes.</contingutSeccio></seccio><seccio><numIntSeccio>8c8e9b4bc5a047509bf1c5dade99a4fd</numIntSeccio><nomSeccio>Documentació complementària</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Dades més significatives que defineixin l'activitat o activitats que es pretenen realitzar en un mateix centre o establiment. Cal portar avantprojecte, estudi previ o qualsevol documentació que defineixi suficientment l'activitat.</contingutSeccio></seccio></seccions></fitxa><fitxa><codiTramit>8b4480882a1a497ea49a3d75f678323a</codiTramit><nomTramit>FUE Declaració responsable d'obertura</nomTramit><esTelematic>true</esTelematic><URLTramitAssociat>https://tramits.manlleu.cat/siac/FUE/8b4480882a1a497ea49a3d75f678323a</URLTramitAssociat><seccions><seccio><numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio><nomSeccio>Descripció del procediment</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>FUE Declaració responsable d'obertura</contingutSeccio></seccio><seccio><numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio><nomSeccio>Objecte</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Mitjançant la "Declaració responsable d'obertura" l'interessat posa en coneixement de l'Administració l'inici d'una activitat econòmica innòcua, de les incloses en l'Annex I de la llei de simplificació, i declara, sota la seva responsabilitat, que compleix els requisits establerts per la normativa vigent per a l'exercici de l'activitat, que disposa d'un certificat tècnic justificatiu i que es compromet a mantenir-ne el compliment durant el seu exercici.</contingutSeccio></seccio><seccio><numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio><nomSeccio>Òrgan responsable de la resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Ajuntament.</contingutSeccio></seccio><seccio><numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio><nomSeccio>Unitat tramitadora</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Àrea de Serveis Territorials, Medi Ambient i Habitatge.</contingutSeccio></seccio><seccio><numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio><nomSeccio>Persones destinatàries</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>La persona física o jurídica que vol exercir una o diverses activitats en un mateix centre o establiment, o el seu representant legal. En aquest cas s'ha de declarar la representació amb la qual s'actua.</contingutSeccio></seccio><seccio><numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio><nomSeccio>Import</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>2014  Epígraf 1. Expedients de comunicació prèvia i sol licituds.  1.1. Declaració responsable obertura: 180,00 euros</contingutSeccio></seccio><seccio><numIntSeccio>c4172b500a474810b260f3ca736ed467</numIntSeccio><nomSeccio>Termini de resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>No hi ha resolució.  Les declaracions responsables presentades d'acord amb el que estableix la normativa vigent, són eficaces des de la seva entrada al Registre general de l'Ajuntament, moment a partir del qual es pot exercir l'activitat declarada, sempre que es disposi del comprovant de pagament de les taxes corresponents. La presentació de la declaració responsable faculta l'Ajuntament per verificar la conformitat de les dades que s'hi contenen.</contingutSeccio></seccio><seccio><numIntSeccio>39582558b476466bb83949698846f051</numIntSeccio><nomSeccio>Efectes del silenci administratiu</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>No opera.</contingutSeccio></seccio><seccio><numIntSeccio>68f0e84f063243f0bba247f6e1802a0d</numIntSeccio><nomSeccio>Recursos</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Els ordinaris del procediment administratiu.</contingutSeccio></seccio><seccio><numIntSeccio>d9577ab1cfa74465832a802aade43a09</numIntSeccio><nomSeccio>Normativa d’interés</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>E.L 16/2015: Llei 16/2015, de 21 de juliol, de simplificació de l'activitat adminsitrativa de l'Administració de la Generalitat i dels governs locals de Catalunya i d'impuls de l'activitat econòmica</contingutSeccio></seccio></seccions></fitxa><fitxa><codiTramit>64b288428f6f4658947633dae04c3315</codiTramit><nomTramit>FUE Informe previ en matèria d'incendis</nomTramit><esTelematic>true</esTelematic><URLTramitAssociat>https://tramits.manlleu.cat/siac/FUE/64b288428f6f4658947633dae04c3315</URLTramitAssociat><seccions><seccio><numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio><nomSeccio>Descripció del procediment</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>FUE Informe previ en matèria d'incendis</contingutSeccio></seccio><seccio><numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio><nomSeccio>Objecte</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Aquest tràmit us permet obtenir l'inofrme en matèria de prevenció d'incendis que s'ha de sol licitar amb anterioritat a la presentació de la comunicació prèvia d'una activitat considerada de risc important en matèria d'incendis, quan aquesta estigui inclosa en els annexos 1 o 2 de la Llei 3/201, de 18 de febrer.  Posteriorment a l'obtenció de l'informe favorable, caldrà realitzar l'acte de comprovació en matèria d'incendis i procedir a efecturar la comunicació prèvia corresponent.</contingutSeccio></seccio><seccio><numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio><nomSeccio>Òrgan responsable de la resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Generalitat de Catalunya.</contingutSeccio></seccio><seccio><numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio><nomSeccio>Unitat tramitadora</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Àrea de Serveis Territorials.</contingutSeccio></seccio><seccio><numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio><nomSeccio>Persones destinatàries</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>La persona físiica o jurídica que vol exercir una o diverses activitats en un mateix centre o establiment, o el seu representant legal. En aquest cas s'ha de declarar la representació amb la qual s'actua.</contingutSeccio></seccio><seccio><numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio><nomSeccio>Import</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>La taxa que estableixi l'ordenança fiscal.</contingutSeccio></seccio><seccio><numIntSeccio>c4172b500a474810b260f3ca736ed467</numIntSeccio><nomSeccio>Termini de resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>El termini per resoldre la petició d'informe per part de l'òrgan de la Generalitat és de dos mesos des que entra la petició fins que s'emet l'informe.</contingutSeccio></seccio><seccio><numIntSeccio>39582558b476466bb83949698846f051</numIntSeccio><nomSeccio>Efectes del silenci administratiu</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>En el cas que, transcorregut el termini de dos mesos no s'hagi emès l'informe, s'entén que l'informe és favorable.</contingutSeccio></seccio><seccio><numIntSeccio>68f0e84f063243f0bba247f6e1802a0d</numIntSeccio><nomSeccio>Recursos</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Els ordinaris del procediment administratiu.</contingutSeccio></seccio><seccio><numIntSeccio>d9577ab1cfa74465832a802aade43a09</numIntSeccio><nomSeccio>Normativa d’interés</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>E.L 3/2010: Llei 3/2010, de 18 de febrer, de prevenció i seguretat en matèria d'incendis</contingutSeccio></seccio></seccions></fitxa><fitxa><codiTramit>1e9eeea3f3d142fab12f0b2e3c8dc439</codiTramit><nomTramit>FUE Informe urbanístic associat a la tramitació d'activitats</nomTramit><esTelematic>true</esTelematic><URLTramitAssociat>https://tramits.manlleu.cat/siac/FUE/1e9eeea3f3d142fab12f0b2e3c8dc439</URLTramitAssociat><seccions><seccio><numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio><nomSeccio>Descripció del procediment</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>FUE Informe urbanístic associat a la tramitació d'activitats</contingutSeccio></seccio><seccio><numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio><nomSeccio>Objecte</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Aquest tràmit us permet obtenir l'informe previ en el qual l'Ajuntament es pronuncia sobre la compatibilitat de l'activitat projectada amb el planejament urbanístic vigent i la disponibilitat i suficiència dels serveis públics municipals per atendre els requeriments de l'activitat.  S'haurà de sol licitar preceptivament en els supòsits legalment previstos i que es concreten en l'Ordenança municipal d'intervenció ambiental, de seguretat i salut pública i en l'Ordenança municipal d'espectacles públics i activitats recreatives.</contingutSeccio></seccio><seccio><numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio><nomSeccio>Òrgan responsable de la resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Ajuntament.</contingutSeccio></seccio><seccio><numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio><nomSeccio>Unitat tramitadora</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Àrea de Serveis Territorials.</contingutSeccio></seccio><seccio><numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio><nomSeccio>Persones destinatàries</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Les persones físiques o jurídiques que volen exercir una o diverses activitats en un mateix centre o establiment, o el seu representant legal. En aquest cas s'ha de declarar la representació amb la qual s'actua.</contingutSeccio></seccio><seccio><numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio><nomSeccio>Import</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Epígraf 6. Certificat de compatibilitat del projecte o l'activitat projectada amb el planejament urbanístic: 113,50 euros</contingutSeccio></seccio><seccio><numIntSeccio>c4172b500a474810b260f3ca736ed467</numIntSeccio><nomSeccio>Termini de resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>El termini per resoldre la petició d'informe urbanístic és d'un mes.  En els supòsits en què aquest s'ha d'emetre en la comunicació prèvia, el termini és de vint dies.</contingutSeccio></seccio><seccio><numIntSeccio>39582558b476466bb83949698846f051</numIntSeccio><nomSeccio>Efectes del silenci administratiu</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Continua la tramitació dels procediments als quals es vincula, sens perjudici que no es podran adquirir per silenci administratiu facultats o drets contraris a l'ordenament jurídic.</contingutSeccio></seccio><seccio><numIntSeccio>68f0e84f063243f0bba247f6e1802a0d</numIntSeccio><nomSeccio>Recursos</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Els ordinaris del procediment administratiu.</contingutSeccio></seccio></seccions></fitxa><fitxa><codiTramit>8372cb9e38c648f99ed1ccf1b16cf0c9</codiTramit><nomTramit>FUE Llicència ambiental (Annex II)</nomTramit><esTelematic>true</esTelematic><URLTramitAssociat>https://tramits.manlleu.cat/siac/FUE/8372cb9e38c648f99ed1ccf1b16cf0c9</URLTramitAssociat><seccions><seccio><numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio><nomSeccio>Descripció del procediment</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>FUE Llicència ambiental (Annex II)</contingutSeccio></seccio><seccio><numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio><nomSeccio>Objecte</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Estan sotmeses al règim de llicència ambiental municipal les activitats ubicades en un mateix centre o establiment i que pertanyen a la mateixa persona o empresa titulars, que es relacionen als annexos II i IV de la Llei 20/2009, de prevenció i control ambiental de les activitats (LPCAA), tant per ser implantades com per a tota modificació substancial que s'hi pretengui realitzar un cop autoritzades.  Aquestes activitats se subdivideixen en:  1) Activitats sotmeses a una llicència ambiental amb declaració d'impacte ambiental. Aquestes activitats són les que en l'epígraf corresponent a l'annex II de la LPCAA es determina específicament la necessitat d'aquest procés (Codis 11.1 i 11.2).  2) Activitats sotmeses a una llicència ambiental i a un procés de decisió prèvia sobre la necessitat de declaració d'impacte ambiental: aquestes activitats són les que es troben en algun d'aquests supòsits:  . En l'epígraf corresponent a l'annex II de la LPCAA es determina específicament la necessitat d'aquest procés. (Codi 7.9. sempre que a la instal lació es donin, d'una manera simultània, les circumstàncies següents:   a) que estigui situada fora de polígons industrials   b) que estigui situada a menys de 500 m d'una zona residencial   c) que ocupi una superfície d'almenys 1 hectàrea)  . Estan ubicades en espais naturals de protecció especial (PEIN, Xarxa Natura, zones humides conveni Ramsar, altres).  3) Activitats sotmeses a una llicència ambiental sense necessitat de sotmetre's a cap procés d'avaluació d'impacte ambiental.  També està subjecta a llicència ambiental la modificació substancial de qualsevol activitat de l'annex II de la LPCAA, amb els mateixos procediments, documentació i requisits que els establerts per al seu atorgament.</contingutSeccio></seccio><seccio><numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio><nomSeccio>Òrgan responsable de la resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Ajuntament.</contingutSeccio></seccio><seccio><numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio><nomSeccio>Unitat tramitadora</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Àrea de Serveis Territorials.</contingutSeccio></seccio><seccio><numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio><nomSeccio>Persones destinatàries</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Les persones físiques o jurídiques que volen exercir una o diverses activitats en un mateix centre o establiment, o el seu representant legal. En aquest cas s'ha de declarar la representació amb la qual s'actua.</contingutSeccio></seccio><seccio><numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio><nomSeccio>Import</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>2014  Epígraf 1. Expedients de comunicació prèvia i sol licituds.  1.4. Llicència ambiental municipal d'activitats exercides en locals tancats o recintes amb una superfície de més de 500 m2 (Annex II): 1.260,00 euros  1.5. Llicència ambiental municipal d'activitats exercides en locals tancats o recintes amb una superfície de menys de 500 m2 (Annex II): 1.010,00 euros  1.6. Llicència ambiental municipal d'activitats exercides en locals tancats o recintes (Annex I): 1.955,00 euros</contingutSeccio></seccio><seccio><numIntSeccio>c4172b500a474810b260f3ca736ed467</numIntSeccio><nomSeccio>Termini de resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>La resolució es dicta i es notifica en un termini màxim de sis mesos a comptar de la data de presentació de la sol licitud.</contingutSeccio></seccio><seccio><numIntSeccio>39582558b476466bb83949698846f051</numIntSeccio><nomSeccio>Efectes del silenci administratiu</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>La no resolució i notificació en el termini de sis mesos, comporta la desestimació de la sol licitud de llicència i permet a l'interessat interposar el recurs administratiu o el contenciós administratiu que sigui procedent.</contingutSeccio></seccio><seccio><numIntSeccio>68f0e84f063243f0bba247f6e1802a0d</numIntSeccio><nomSeccio>Recursos</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Els ordinaris del procediment administratiu.</contingutSeccio></seccio><seccio><numIntSeccio>8c8e9b4bc5a047509bf1c5dade99a4fd</numIntSeccio><nomSeccio>Documentació complementària</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Amb caràcter voluntari, s'ha d'indicar el sistema i procediment per a la verificació del funcionament dels autocontrols de l'activitat proposats per la persona sol licitant, amb indicació del tècnic o de la tècnica amb qualificació adequada responsable de la seva aplicació.Declaració responsable en matèria de salut alimentària, si és un establiment afectat pel Real Decret Llei 191/2011 (si escau).Declaració, si cal, de les dades contingudes en el projecte que, segons la persona sol licitant, gaudeixen de confidencialitat d'acord amb la legislació, amb especificació de la Llei en la qual s'empara.Document acreditatiu de la designació de la persona que assumirà la responsabilitat tècnica de l'execució del projecte i que expedirà la certificació acreditativa de l'adequació de l'activitat i de les instal lacions a la llicència atorgada.Documentació preceptiva en matèria d'incendis d'acord amb la Llei 3/2010, del 18 de febrer, i la normaiva sectorial aplicable o Ordre del Conseller competent en la matèria.En cas d'actuar com a representant legal, declarar la representació amb la qual s'actua.En el cas d'activitats ramaderes, pla de gestió de les dejeccions ramaderes, amb les condicions i continguts determinats en la normativa d'aplicació.Estudi d'impacte ambiental si la Ponència Ambiental de la Generalitat ha determinat que l'activitat ha de sotmetre's a avaluació d'impacte ambiental.Estudi geològic de les característiques del sòl en el qual s'emplaça l'activitat projectada, sempre que la normativa específica aplicable defineixi aquesta activitat com a potencialment contaminant del sòl.Projecte bàsic amb estudi ambiental, signat pel personal tècnic competent amb el contingut assenyalat a l'Ordenança d'intervenció municipal ambiental, de seguretat i de salut pública.  Si l'interessat no ha sol licitat informe urbanístic abans de sol licitar la llicència ambiental, de seguretat i de salut pública, el projecte haurà d'incorporar de manera diferenciada la informació següent: 1. Plànol d'emplaçament de l'activitat projectada que permeti la identificació de la finca. 2. Explicació sintètica de l'activitat projectada que detallli la seva naturalesa i característiques principals. 3. Necessitats d'ús i aprofitament del sòl i del subsòl. 4. Requieriments respecte la disponibilitat i la suficiència dels serveis públics municipals que exigeixi l'activitat. 5. En els casos d'activitats que, tot i que no estan incloses en la legislació d'accidents greus projecten tenir alguna de les substàncies químiques o categoria de substàncies tòxiques o molt tòxiques, de conformitat amb els llindars que s'estableixen a la normativa de seguretat industrial, s'ha d'aportar la normativa que determina aquesta legislació.Qualsevol altra documentació que sigui exigible per la legislació ambiental aplicable a l'activitat.</contingutSeccio></seccio></seccions></fitxa><fitxa><codiTramit>c349792547bf41d2a297073dfe8c05aa</codiTramit><nomTramit>FUE Llicència municipal d'establiments fixos oberts al públic, d'espectacles públics i activitats recreatives ordinàries</nomTramit><esTelematic>true</esTelematic><URLTramitAssociat>https://tramits.manlleu.cat/siac/FUE/c349792547bf41d2a297073dfe8c05aa</URLTramitAssociat><seccions><seccio><numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio><nomSeccio>Descripció del procediment</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>FUE Llicència municipal d'establiments fixos oberts al públic, d'espectacles públics i activitats recreatives ordinàries</contingutSeccio></seccio><seccio><numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio><nomSeccio>Objecte</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Estan sotmeses al règim de llicència d'establiments fixos oberts al públic d'espectacles públics i activitats recreatives ordinàries els següents:  1. Bars musicals amb un aforament superior a 150 persones. 2. Discoteques. 3. Sales de ball. 4. Restaurants musicals amb un aforament superior a 150 persones. 5. Sales de festes amb espectacle. 6. Discoteques de joventut. 7. Establiments on s'hi realitzen activitats de naturalesa sexual:     a) Locals amb servei de bar i ambientació musical sense pista de ball o espai assimilable.     b) Locals que ofereixen actuacions i espectacles eròtics.  També està subjecta a aquesta llicència la modificació substancial d'un establiment o activitat ja autoritzats. La sol licitud, sempre que sigui possible, s'haurà de referir a la part o les parts que es modifiquen.</contingutSeccio></seccio><seccio><numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio><nomSeccio>Òrgan responsable de la resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Ajuntament.</contingutSeccio></seccio><seccio><numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio><nomSeccio>Unitat tramitadora</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Àrea de Serveis Territorials.</contingutSeccio></seccio><seccio><numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio><nomSeccio>Persones destinatàries</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Les persones físiques o jurídiques que volen obrir qualsevol dels establiments fixos oberts al públic d'espectacles públics i activitats recreatives ordinàries o el seu representant legal. En aquest cas s'ha de declarar la representació amb la qual s'actua.</contingutSeccio></seccio><seccio><numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio><nomSeccio>Import</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>2014  Epígraf 9. Règim d'intervenció administrativa que deriva del Decret 112/2010, de 31 d'agost, pel qual s'aprova el Reglament d'espectacles públics i activitats recreatives  9.1. Procediment de llicència municipal d'establiments oberts al públic:  a) Obertura d'establiments de més de 500 m2 oberts al públic d'espectacles públics i d'activitats recreatives de caràcter permanent que no estiguin subjectes al règim de comunicació prèvia: 1.260,00 euros  b) Obertura d'establiments de menys de 500 m2 oberts al públic d'espectacles públics i d'activitats recreatives de caràcter permanent que no estiguin subjectes al règim de comunicació prèvia: 1.010,00 euros</contingutSeccio></seccio><seccio><numIntSeccio>c4172b500a474810b260f3ca736ed467</numIntSeccio><nomSeccio>Termini de resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>La resolució es dicta i es notifica en un termini màxim de sis mesos a comptar de la data de presentació de la sol licitud.</contingutSeccio></seccio><seccio><numIntSeccio>39582558b476466bb83949698846f051</numIntSeccio><nomSeccio>Efectes del silenci administratiu</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>El silenci administratiu serà negatiu.</contingutSeccio></seccio><seccio><numIntSeccio>68f0e84f063243f0bba247f6e1802a0d</numIntSeccio><nomSeccio>Recursos</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Els ordinaris del procediment administratiu.</contingutSeccio></seccio><seccio><numIntSeccio>8c8e9b4bc5a047509bf1c5dade99a4fd</numIntSeccio><nomSeccio>Documentació complementària</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Abans de l'obertura de l'establiment, la persona titular de l'establiment o la persona que en tingiu la representació, ha d'acreditar que ha contractat una assegurança de responsabilitat civil per les quanties mínimes que s'indiquen al Decret 112/2010, de 31 d'agost, pel qual s'aprova el Reglament de la Llei 11/2009, de 6 de juliol, mitjançant una declaració responsable, segons model normalitzat, la qual haurà d'anar acompanyada del rebut vigent.Declaració de les dades que, segons la persona sol licitant, gaudeixen de confidencialitat d'acord amb la legislació, amb especificació de la Llei en la qual s'empara, si escau.Document acreditatiu de la designació per la persona sol licitant de la llicència de la persona que ha d'assumir la responsabilitat tècnica de l'execució del projecte i que  ha d'expedir la certificació que acrediti l'adequació de l'establiment a la llicència atorgada. Aquest document haurà de consignar el nom, l'adreça, la titulació i l'habilitació professional de la persona designada.Documentació relativa a mobilitat amb el contingut que determini la normativa d'avaluació de la mobilitat generada.Documentació requerida per la normativa sobre sorolls, escalfament, contaminació acústica, residus i vibracions, i en tot cas la que determini la normativa sobre prevenció i control ambiental segons correspongui en funció de les característiques de l'establiment i de les activitats a desenvolupar-hi. Aquesta documentació es presentarà en forma d'estudi o memòria ambiental incorporada de manera diferenciada al projecte tècnic, amb el contingut que resulti de les Ordres que dicti el tècnic, amb el contingut que resulti de les Ordres que dicti el Departament competent en matèria de medi ambient.Estudi d'impacte ambiental si la Ponència Ambiental de la Generalitat ha determinat que l'activitat ha de sotmetre's a avaluació d'impacte ambiental.La sol licitud de llicència urbanística, si escau, acompanyada per la documentació requerida per la normativa urbanística. Aquesta sol licitud es pot presentar simultàniament a la presentació d'altres sol licituds d'autorització o llicència.Memòria de seguretat i pla d'autoprotecció, si calen, d'acord el que disposa el Decret 82/2010, que s'hauran de presentar en el termini màxim de 6 mesos des de l'inici de l'activitat a través del Registre electrònic de plans d'autoprotecció Hermes.Memòria del dispositiu d'assistència sanitària d'acord amb el que estableixi la normativa reguladora.Memòria descriptiva de les condicions d'higiene i salubritat que acrediti que es disposa dels serveis d'assistència sanitària que preveu l'Ordenança i, en tot cas, els que preveu del Decret 112/2010, de 31 d'agost, pel que s'aprova el Reglament de la Llei 11/2009, de 6 de juliol.Projecte bàsic, signat pel tècnic competent amb el contingut assenyalat a l'Ordenança d'intervenció municipal en espectacles públics i activitats recreatives.  Si l'interessat no ha sol licitat informe urbanístic abans de sol licitar la llicència, el projecte haurà de contenir, de manera diferenciada de la resta de documentació, la informació següent: 1. Plànol d'emplaçament de l'activitat projectada que permeti la identificació de la finca. 2. Explicació sintètica de l'activitat projectada que detalli la seva naturalesa i característiques principals. 3. Necessitats d'ús i aprofitament del sòl i del subsòl. 4. Requeriments respecte la disponibilitat i la suficiència dels serveis públics municipals que exigeixi l'activitat.Un estudi d'impacte acústic de l'establiment amb el contingut requerit per les ordenances de contaminació acústica, la normativa específica de protecció contra la contaminació acústica o aquella que la substitueixi. També haurà d'acreditar el compliment de les determinacions que estableixin els mapes de capacitat acústica, els plans d'accions i els plans específics municipals de mesures per minimitzar l'impacte acústic i, en general, la resta de normes i programes vigents per evitar o reduir la contaminació acústica.</contingutSeccio></seccio></seccions></fitxa><fitxa><codiTramit>4af40d89b08e471c83035ca390158da8</codiTramit><nomTramit>FUE Llicència municipal d'establiments oberts al públic de règim especial</nomTramit><esTelematic>true</esTelematic><URLTramitAssociat>https://tramits.manlleu.cat/siac/FUE/4af40d89b08e471c83035ca390158da8</URLTramitAssociat><seccions><seccio><numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio><nomSeccio>Descripció del procediment</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>FUE Llicència municipal d'establiments oberts al públic de règim especial</contingutSeccio></seccio><seccio><numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio><nomSeccio>Objecte</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>És el règim d'intervenció municipal al qual se subjecta l'obertura d'un establiment públic de règim especial.  Aquesta llicència l'atorguen, amb informe vinculant previ de la Generalitat, els ajuntaments de més de 50.000 habitants. També podran atorgar-la els ajuntaments de menor població que així ho tinguin delegat de la Generalitat de Catalunya. En la resta de municipis el règim d'intervenció serà l'autorització de la Generalitat, prèvia conformitat de l'ajuntament afectat.  Els establiments oberts al públic de règim especial són aquells amb horari especial i que poden romandre oberts al llarg de tot el dia, preveient 2 hores de tancament, cada 24 hores.</contingutSeccio></seccio><seccio><numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio><nomSeccio>Òrgan responsable de la resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Ajuntament.</contingutSeccio></seccio><seccio><numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio><nomSeccio>Unitat tramitadora</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Àrea de Serveis Territorials.</contingutSeccio></seccio><seccio><numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio><nomSeccio>Persones destinatàries</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Les persones físiques o jurídiques que, complint amb les condicions i requisits especials, volen posar en funcionament un establiment de règim especial o el seu representant legal. En aquest darrer cas s'ha de declarar la representació amb la qual s'actua.</contingutSeccio></seccio><seccio><numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio><nomSeccio>Import</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>2014  Epígraf 9. Règim d'intervenció administrativa que deriva del Decret 112/2010, de 31 d'agost, pel qual s'aprova el Reglament d'espectacles públics i activitats recreatives  9.1. Procediment de llicència municipal d'establiments oberts al públic:  a) Obertura d'establiments de més de 500 m2 oberts al públic d'espectacles públics i d'activitats recreatives de caràcter permanent que no estiguin subjectes al règim de comunicació prèvia: 1.260,00 euros  b) Obertura d'establiments de menys de 500 m2 oberts al públic d'espectacles públics i d'activitats recreatives de caràcter permanent que no estiguin subjectes al règim de comunicació prèvia: 1.010,00 euros</contingutSeccio></seccio><seccio><numIntSeccio>c4172b500a474810b260f3ca736ed467</numIntSeccio><nomSeccio>Termini de resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>La resolució que dicta l'Ajuntament sobre la sol licitud de llicència posa fi al procediment i s'ha de dictar i notificar en un termini màxim de 6 mesos a comptar des de la data de presentació de la sol licitud.</contingutSeccio></seccio><seccio><numIntSeccio>39582558b476466bb83949698846f051</numIntSeccio><nomSeccio>Efectes del silenci administratiu</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>El silenci administratiu serà negatiu. Opera en el termini de 6 mesos des que es va presentar la sol licitud de llicència.</contingutSeccio></seccio><seccio><numIntSeccio>68f0e84f063243f0bba247f6e1802a0d</numIntSeccio><nomSeccio>Recursos</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Els ordinaris del procediment administratiu.</contingutSeccio></seccio><seccio><numIntSeccio>d9577ab1cfa74465832a802aade43a09</numIntSeccio><nomSeccio>Normativa d’interés</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>E.L 11/2009: Llei 11/2009, de 6 de juliol, de regulació administrativa dels espectacles públics i les activitats recreatives.E.D 112/2010: Decret 112/2010, de 31 d'agost, pel que s'aprova el Reglament d'espectacles públics i activitats recreatives.I.OM int espectacles públics: &lt;a href="https://tramits.manlleu.cat/siac/PublicacionTabs.aspx?tab=6&amp;id=1788&amp;t=NO&amp;x=3XjL0c5pPKqI9RDwY2wBmQ"&gt;Ordenança d'intervenció municipal en espectacles públics i activitats recreatives&lt;/a&gt;</contingutSeccio></seccio><seccio><numIntSeccio>8c8e9b4bc5a047509bf1c5dade99a4fd</numIntSeccio><nomSeccio>Documentació complementària</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Acreditar mitjançant un apartat específic del projecte que l'establiment de règim especial, atès el seu horari i el dels desplaçaments que ha de provocar i el volum d'aquests, no ha d'interferir en l'activitat econòmica i social de la zona afectada.Acreditar que es disposa del personal de control d'accés següent: - D'1 a 150 persones d'aforament autoritzat: 1 controlador/a d'accés - De 151 a 500 persones d'aforament autoritzat: 2 controladors/es d'accés - De 501 a 1.000 persones d'aforament autoritzat: 3 controladors/es d'accés - De 1.001 a 2.000 persones d'aforament autoritzat: 4 controladors/es d'accés - A partir de 2.000 persones d'aforament autoritzat: 1 controlador/a més per cada 1.000Acreditar que es disposa del servei de vigilants de seguretat privada següent: - D'1 a 500 persones d'aforament autoritzat: 1 vigilant/a de seguretat privada - De 501 a 1.000 persones d'aforament autoritzat: 2 vigilants/es de seguretat privada - De 1.001 a 2.000 persones d'aforament autoritzat: 3 vigilants/es de seguretat privada - A partir de 2.000 persones d'aforament autoritzat: 1 vigilant/a de seguretat privada més per cada 1.000Acreditar que es disposa d'un aparcament propi dimensionat al seu aforament autoritzat. (Excepcionalment, la llicència o autorització pot eximir el compliment d'aquest requisit si l'estudi o memòria sobre mobilitat presentat acredita l'existència i l'ús de serveis de transport col lectiu i la suficència de places d'aparcament en la proximitat de l'establiment).Acreditar que es disposa d'un sistema automàtic de control d'aforament.Autorització d'abocament a la llera pública o al mar, si és el cas.Declaració responsable de la persona titular de la disponibilitat de la finca o local, si és el cas.Declaració responsable de la persona titular o organitzadora on faci constar el compromís de contractació d'una assegurança de responsabilitat civil que cobreix el risc (segons les quanties mínimes del Decret 112/2010, de 31 d'agost).Dins del projecte, Explicació sintètica de l'activitat projectada que detalli la seva naturalesa i característiques principals.Dins del projecte, Necessitats d'ús i aprofitament del sòl i del subsòl.Dins del projecte, Plànol d'emplaçament de l'activitat projectada que permeti la identificació de la finca.Dins del projecte, Requeriments de l'activitat respecte als serveis públics municipals que exigeixi l'activitat.Document acreditatiu de la designació per la persona sol licitant de la llicència de la j persona que ha d'assumir la responsabilitat tècnica de l'execució del projecte i que ha d'expedir la certificació que acrediti l'adequació de l'establiment a la llicència atorgada. Aquest document haurà de consignar el nom, l'adreça, la titulació i l'habilitació professional de la persona designada.Documentació relativa a mobilitat amb el contingut que determini la normativa d'avaluació de la mobilitat generada.Documentació requerida per la normativa sobre sorolls, escalfament, contaminació acústica, residus i vibracions, i en tot cas la que determini la normativa sobre prevenció i control ambiental segons correspongui en funció de les característiques de l'establiment i de les activitats a desenvolupar-hi. Aquesta documentació es presentarà en forma d'estudi o memòria ambiental incorporada de manera diferenciada al projecte tècnic, amb el contingut que resulti de les Ordres que dicti el Departamenrt competent en matèria de medi ambient.Estudi d'impacte acústic de l'establiment amb el contingut requerit per les ordenances sobre contaminació acústica, la normativa específica de protecció contra la contaminació acústica o aquella que la substitueixi. També haurà d'acreditar el compliment de les determinacions i condicionants que estableixin els mapes de capacitat acústica, els plans d'accions i els plans específics municipals de mesures per minimitzar l'impacte acústic i, en general, la resta de normes i programes vigents per evitar o reduir la contaminació acústica.Justificar que no hi ha centres educatius, biblioteques, centres esportius ni centres de culte en un radi de 500 metres a l'entorn de l'establiment. (Excepcionalment, la llicència o l'autorització pot eximir del compliment d'aquest requisit si es garanteix que el local roman tancat des d'una hora abans de l'obertura i fins a una hora després de la clausura i durant l'horari lectiu o d'ús dels serveis esmentats.Justificar que no hi ha persones residents en un radi de 500 metres a l'entorn de l'establiment. (Excepcionalment, la llicència o l'autorització pot reduir aquest radi a 200 metres si el projecte acredita l'existència de mesures d'aïllament acústic suficients per garantir que no es produiran molèsties a les persones que resideixen a la proximitat de l'establiment).La sol licitud de llicència urbanística, si escau, acompanyada per la documentació requerida per la normativa urbanística. Aquesta sol licitud es pot presentar simultàniament a la presentació d'altres sol licituds d'autorització o llicència.Memòria de seguretat si cal, d'acord amb la normativa d'aplicació.Memòria del dispositiu d'assistència sanitària si cal, d'acord amb la normativa d'aplicació.Memòria descriptiva de les condicions d'higiene i salubritat, que acrediti disposar dels serveis d'assistència sanitària que preveu el Reglament de la Llei 11/2009.Pla d'autoprotecció si cal, d'acord amb la normativa d'aplicació.Projecte bàsic, signat pel tècnic competent amb el contingut mínim previst per la normativa sobre prevenció i seguretat en matèria d'incendis.</contingutSeccio></seccio></seccions></fitxa><fitxa><codiTramit>2c17d26b3f654996b96b88c6129d082c</codiTramit><nomTramit>FUE Llicència municipal per a espectacles públics o activitats recreatives de caràcter extraordinari</nomTramit><esTelematic>true</esTelematic><URLTramitAssociat>https://tramits.manlleu.cat/siac/FUE/2c17d26b3f654996b96b88c6129d082c</URLTramitAssociat><seccions><seccio><numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio><nomSeccio>Descripció del procediment</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>FUE Llicència municipal per a espectacles públics o activitats recreatives de caràcter extraordinari</contingutSeccio></seccio><seccio><numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio><nomSeccio>Objecte</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>És el règim d'intervenció municipal al qual, els municipis de més de 50.000 habitants, subjecten l'exercici d'espectacles públics i activitats recreatives de caràcter extraordinari.  Se sotmeten a aquest règim els espectacles públics i les activitats recreatives de caràcter extraordinari, que:  - Es duen a terme esporàdicament en establiments oberts al públic que tenen llicència o autorització per a una activitat diferent de la que es pretén fer, o  - Es duen a terme en espais oberts al públic o altres locals que, tot i no tenir la condició d'establiments oberts al públic amb llicència o autorització, compleixen les condicions exigides per dur-hi a terme els espectacles o les activitats.  No estaran subjectes a aquesta llicència (per estar subjectes a comunicació prèvia), els d'espectacles públics i activitats recreatives de caràcter extraordinari, següents:  - Els que es duen a terme amb motiu de festes o revetlles populars.  Els que siguin d'interès artístic o cultural amb un aforament reduït de menys de 150 persones, en el cas que es duguin a terme ocasionalment en espais oberts al públic o en qualsevol tipus d'establiments de concurrència pública.  - Les actuacions en directe en establiments inclosos en el catàleg del Decret 112/2010, del 31 d'agost, pel qual s'aprova el Reglament d'espectacles públics i activitats recreatives i a l'annex I de l'Ordenança d'intervenció municipal.</contingutSeccio></seccio><seccio><numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio><nomSeccio>Òrgan responsable de la resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Ajuntament.</contingutSeccio></seccio><seccio><numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio><nomSeccio>Unitat tramitadora</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Àrea serveis territorials.</contingutSeccio></seccio><seccio><numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio><nomSeccio>Persones destinatàries</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>La persona física o jurídica que vol dur a terme un o diversos espectacles públics o activitats recreatives en un mateix establiment o espai obert al públic o el seu representant legal. En aquest darrer cas s'ha de declarar la representació amb la qual s'actua.</contingutSeccio></seccio><seccio><numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio><nomSeccio>Import</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>2014  Epígraf 9. Règim d'intervenció administrativa que deriva del Decret 112/2010, de 31 d'agost, pel qual s'aprova el Reglament d'espectacles públics i activitats recreatives  9.3. Llicència provisional d'establiments oberts al públic: 163,50 euros</contingutSeccio></seccio><seccio><numIntSeccio>c4172b500a474810b260f3ca736ed467</numIntSeccio><nomSeccio>Termini de resolució</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>La resolució que dicta l'Ajuntament sobre la sol licitud de llicència posa fi al procediment i s'ha de dictar i notificar en un termini màxim d'un mes a comptar des de la data de presentació de la sol licitud.</contingutSeccio></seccio><seccio><numIntSeccio>39582558b476466bb83949698846f051</numIntSeccio><nomSeccio>Efectes del silenci administratiu</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>El silenci administratiu serà negatiu. Opera en el termini d'un mes des que es va presentar la sol licitud de llicència.</contingutSeccio></seccio><seccio><numIntSeccio>68f0e84f063243f0bba247f6e1802a0d</numIntSeccio><nomSeccio>Recursos</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Els ordinaris del procediment administratiu.</contingutSeccio></seccio><seccio><numIntSeccio>d9577ab1cfa74465832a802aade43a09</numIntSeccio><nomSeccio>Normativa d’interés</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>E.L 11/2009: Llei 11/2009, de 6 de juliol, de regulació administrativa dels espectacles públics i les activitats recreatives.E.D 112/2010: Decret 112/2010, de 31 d'agost, pel que s'aprova el Reglament d'espectacles públics i activitats recreatives.I.OM int espectacles públics: &lt;a href="https://tramits.manlleu.cat/siac/PublicacionTabs.aspx?tab=6&amp;id=1788&amp;t=NO&amp;x=3XjL0c5pPKqI9RDwY2wBmQ"&gt;Ordenança d'intervenció municipal en espectacles públics i activitats recreatives&lt;/a&gt;</contingutSeccio></seccio><seccio><numIntSeccio>8c8e9b4bc5a047509bf1c5dade99a4fd</numIntSeccio><nomSeccio>Documentació complementària</nomSeccio><idioma>ca_ES</idioma><contingutSeccio>Autorització per a l'ocupació del domini públic, si cal si aquell pertany a una administració diferent de l'Ajuntament.Memòria amb el el contingut mínim següent:  a) Identificació de l'espectacle públic o activitat recreativa per a la qual se sol licita llicència. b) data o dates i horari previst per a la realització. c) Nom, cognoms, adreça i telèfons de, com a mínim, dues persones responsables de la seva organització. d) Descripció breu de l'espectacle o activitat i del nombre màxim de persones que previsiblement assistiran o participaran en la seva realització amb nidicació dels serveis o prestacions que se'ls oferiran. e) Indicació de les mesures adoptades, incloses la contactació del personal de seguretat privada i de control d'accés, i de les que convindria adoptar per part dels serveis municipals afectats, per tal de prevenir riscos per a la salut i la seguretat i per prevenir inconvenients o molèsties per a terceres persones interessades, en matèria de sorolls i trànsit. f) Una anàlisi de la mobilitat que provocarà l'espectacle públic o activitat recreativa, amb previsió de mesures especials per afrontar les necessitats detectades, si escau, segons determina la normativa sobre regulació de la mobilitat generada. g) Una valoració de l'impacte acústic de l'espectacle o de l'activitat recreativa i, si escau, de les mesures que s'adoptaran per prevenir-lo i minimitzar-lo. h) Descripció responsable de la persona titular o organitzadora on faci constar el compromís de contractació d'una assegurança de responsabilitat civil que cobreix el risc que pugui derivar-se de la seva organització i realització (segons les quanties mínimes del Decret 112/2010, de 31 d'agost). i) Declaració responsable de la persona titular o organitzadora on faci constar el compromís de contractació d'una assegurança de responsabilitat civil que cobreix el risc que pugui derivar-se de la seva organització i realització (segons les quanties mínimes del Decret 112/2010, de 31 d'agost). j) Identificació de la persona o persones titulars de l'establiment, recinte o espai obert i, en cas que no sigui la mateixa persona promotora o organitzadora, document que expressi la seva conformitat amb l'espectacle públic o amb activitat recreativa projectats.</contingutSeccio></seccio></seccions></fitxa></dadesCataleg></consultarCatalegResult></transmissioResponse></Body></Envelope>
+<?xml version="1.0"?>
+<Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+  <Body>
+    <transmissioResponse xmlns="http://cat.aoc/etramsge/gateway/ops/">
+      <consultarCatalegResult xmlns="http://cat.aoc/etramsge/gateway/resposta">
+        <correcte>true</correcte>
+        <missatgeError>OK</missatgeError>
+        <ensPropietari>0811200000</ensPropietari>
+        <dadesCataleg>
+          <fitxa>
+            <codiTramit>dd0bdc022d1448d687dde442c374efa4</codiTramit>
+            <nomTramit>FUE Comunicació prèvia ambiental municipal (Annex III)</nomTramit>
+            <esTelematic>true</esTelematic>
+            <URLTramitAssociat>https://tramits.manlleu.cat/siac/ProcedimientoTabs.aspx?tab=1&amp;idProc=147&amp;idnct=747&amp;x=T5SIhHGtV6WTfpDM3lV/Rw</URLTramitAssociat>
+            <seccions>
+              <seccio>
+                <numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio>
+                <nomSeccio>Descripció del procediment</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>FUE Comunicació prèvia ambiental municipal (Annex III)</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio>
+                <nomSeccio>Objecte</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>És el règim d'intervenció a través del qual les persones o empreses titulars d'una activitat, posen en coneixement de l'ajuntament fets o elements relatius a l'inici d'una activitat sota la seva responsabilitat, tot indicant els aspectes que la poden condicionar, i que s'acompanya dels documents necessaris per al seu exercici.
+
+Se sotmeten a aquest règim les activitats relacionades a l'Annex III de la Llei 20/2009, de 4 de desembre, de prevenció i control ambiental de les activitats (LPCAA) i les activitats consistents en unitats tècniques mòbils de caràcter temporal associades a obres d'infraestructures públiques o privades, o a activitats de tractament de residus, o a instal·lacions similars de l'annex II de l'esmentada Llei, sempre que, com a activitats independents i per les seves característiques, no estiguin associades a un emplaçament fix ni tinguin la condició d'activitats estables.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio>
+                <nomSeccio>Persones destinatàries</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>La persona física o jurídica que vol exercir una o diverses activitats en un mateix centre o establiment, o el seu representant legal. En aquest cas s'ha de declarar la representació amb la qual s'actua.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>706f3e09252249718448685a1974f591</numIntSeccio>
+                <nomSeccio>Termini de sol·licitud</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>La comunicació prèvia ambiental es presenta un cop finalitzades les obres i les instal·lacions necessàries per dur a terme l'activitat i prèviament a l'inici d'aquesta.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio>
+                <nomSeccio>Import</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio> 425,00 €
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio>
+                <nomSeccio>Unitat tramitadora</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Àrea de Serveis Territorials, Medi Ambient i Habitatge
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio>
+                <nomSeccio>Òrgan responsable de la resolució</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Alcaldia, però actualment amb delegació a la regidoria d'Urbanisme
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>d9577ab1cfa74465832a802aade43a09</numIntSeccio>
+                <nomSeccio>Normativa d'interés</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Llei 20/2009, de 4 de desembre, de prevenció i control ambiental de les activitats.&lt;br/&gt;</contingutSeccio>
+              </seccio>
+            </seccions>
+          </fitxa>
+          <fitxa>
+            <codiTramit>1e9eeea3f3d142fab12f0b2e3c8dc439</codiTramit>
+            <nomTramit>FUE Informe urbanístic associat a la tramitació d'activitats (compatibilitat urbanística)</nomTramit>
+            <esTelematic>true</esTelematic>
+            <URLTramitAssociat>https://tramits.manlleu.cat/siac/ProcedimientoTabs.aspx?tab=1&amp;idProc=151&amp;idnct=542&amp;x=u2tISuZPe2R4W8t2dTpQlA</URLTramitAssociat>
+            <seccions>
+              <seccio>
+                <numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio>
+                <nomSeccio>Descripció del procediment</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>FUE Informe urbanístic associat a la tramitació d'activitats (compatibilitat urbanística)</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio>
+                <nomSeccio>Objecte</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>És l'informe previ en el qual l'Ajuntament es pronuncia sobre la compatibilitat de l'activitat projectada amb el planejament urbanístic vigent i la disponibilitat i suficiència dels serveis públics municipals per atendre els requeriments de l'activitat.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio>
+                <nomSeccio>Persones destinatàries</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Les persones físiques o jurídiques que volen exercir una o diverses activitats en un mateix centre o establiment, o el seu representant legal. En aquest cas s'ha de declarar la representació amb la qual s'actua.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>706f3e09252249718448685a1974f591</numIntSeccio>
+                <nomSeccio>Termini de sol·licitud</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Prèviament a l'inici de l'activitat i a la presentació de la sol·licitud o comunicació prèvia corresponent.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio>
+                <nomSeccio>Import</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>113,50 €
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio>
+                <nomSeccio>Unitat tramitadora</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Àrea de Serveis Territorials, Medi Ambient i Habitatge
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio>
+                <nomSeccio>Òrgan responsable de la resolució</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Alcaldia, però actualment amb delegació a la regidoria d'Urbanisme
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>8c8e9b4bc5a047509bf1c5dade99a4fd</numIntSeccio>
+                <nomSeccio>Documentació complementària</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Aquest tràmit no requereix adjuntar cap documentació obligatòria&lt;br/&gt;</contingutSeccio>
+              </seccio>
+            </seccions>
+          </fitxa>
+          <fitxa>
+            <codiTramit>64b288428f6f4658947633dae04c3315</codiTramit>
+            <nomTramit>FUE Informe previ en matèria d'incendis</nomTramit>
+            <esTelematic>true</esTelematic>
+            <URLTramitAssociat>https://tramits.manlleu.cat/siac/ProcedimientoTabs.aspx?tab=1&amp;idProc=152&amp;idnct=543&amp;x=jEU/rGYdRpxqqEm0+2HaUQ</URLTramitAssociat>
+            <seccions>
+              <seccio>
+                <numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio>
+                <nomSeccio>Descripció del procediment</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>FUE Informe previ en matèria d'incendis</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio>
+                <nomSeccio>Objecte</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>És l'informe que s'ha de sol·licitar amb anterioritat a la presentació de la comunicació prèvia d'una activitat considerada de risc important en matèria d’incendis, quan aquesta estigui inclosa en els annexos 1 o 2 de la Llei 3/2010, de prevenció i seguretat en matèria d’incendis.
+
+Posteriorment a l’obtenció de l’informe favorable, cal que una entitat col·laboradora de l'Administració faci l’acte de comprovació en matèria d’incendis i n'emeti el certificat. Tot seguit, l'empresa haurà de fer la comunicació prèvia corresponent.
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio>
+                <nomSeccio>Persones destinatàries</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>La persona físiica o jurídica que vol exercir una o diverses activitats en un mateix centre o establiment, o el seu representant legal. En aquest cas s'ha de declarar la representació amb la qual s'actua.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>706f3e09252249718448685a1974f591</numIntSeccio>
+                <nomSeccio>Termini de sol·licitud</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Prèviament a l'inici de l'activitat i de la presentació de la corresponent comunicació prèvia.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio>
+                <nomSeccio>Import</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>La taxa que estableixi l'ordenança fiscal.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio>
+                <nomSeccio>Unitat tramitadora</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Àrea de Serveis Territorials, Medi Ambient i Habitatge
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio>
+                <nomSeccio>Òrgan responsable de la resolució</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Generalitat de Catalunya.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>d9577ab1cfa74465832a802aade43a09</numIntSeccio>
+                <nomSeccio>Normativa d'interés</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>&lt;a href="https://portaljuridic.gencat.cat/ca/pjur_ocults/pjur_resultats_fitxa/?documentId=547998&amp;action=fitxa"&gt;Llei 3/2010, del 18 de febrer, de prevenció i seguretat en matèria d'incendis en establiments, activitats, infraestructures i edificis&lt;/a&gt;&lt;br/&gt;</contingutSeccio>
+              </seccio>
+            </seccions>
+          </fitxa>
+          <fitxa>
+            <codiTramit>125a702426264b30b7e6782ca8eed8f5</codiTramit>
+            <nomTramit>FUE Comunicació prèvia municipal d'establiments no permanents desmuntables</nomTramit>
+            <esTelematic>true</esTelematic>
+            <URLTramitAssociat>https://tramits.manlleu.cat/siac/ProcedimientoTabs.aspx?tab=1&amp;idProc=158&amp;idnct=762&amp;x=c/UJ9JZoYUJrO/uovnV4jw</URLTramitAssociat>
+            <seccions>
+              <seccio>
+                <numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio>
+                <nomSeccio>Descripció del procediment</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>FUE Comunicació prèvia municipal d'establiments no permanents desmuntables</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio>
+                <nomSeccio>Objecte</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>S'entén per establiments oberts al públic no permanents desmuntables els locals o les construccions conformats per estructures desmuntables o per instal·lacions fixes portàtils, constituïdes per mòduls o elements metàl·lics, de fusta o de qualsevol altre material que permeti operacions de muntatge, desmuntatge o trasllat, amb caràcter itinerant o sense. Poden ser coberts totalment o parcialment i oberts o tancats.
+
+Les persones o empreses interessades en l'obertura d'un establiment no permanent desmuntable, han de posar en coneixement de l'ajuntament els requisits o elements relatius a l'obertura d'un establiment d'aquest tipus on es preveu celebrar espectacles públics o activitats recreatives..
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio>
+                <nomSeccio>Persones destinatàries</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>La persona física o jurídica que vol obrir un establiment, local o construcció, no permanent desmuntable, per a realitzar-hi espectacles públics o activitats recreatives. 
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>706f3e09252249718448685a1974f591</numIntSeccio>
+                <nomSeccio>Termini de sol·licitud</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>En qualsevol moment.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio>
+                <nomSeccio>Import</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>290 € 
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio>
+                <nomSeccio>Unitat tramitadora</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Àrea de Serveis Territorials, Medi Ambient i Habitatge
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio>
+                <nomSeccio>Òrgan responsable de la resolució</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Regidoria d'Urbanisme
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>d9577ab1cfa74465832a802aade43a09</numIntSeccio>
+                <nomSeccio>Normativa d'interés</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Llei 11/2009, de 6 de juliol, de regulació administrativa dels espectacles públics i les activitats recreatives.&lt;br/&gt;Decret 112/2010, de 31 d'agost, pel que s'aprova el Reglament d'espectacles públics i activitats recreatives.&lt;br/&gt;&lt;a href="https://tramits.manlleu.cat/siac/PublicacionTabs.aspx?tab=6&amp;id=1788&amp;t=NO&amp;x=3XjL0c5pPKqI9RDwY2wBmQ"&gt;Ordenança d'intervenció municipal en espectacles públics i activitats recreatives&lt;/a&gt;&lt;br/&gt;</contingutSeccio>
+              </seccio>
+            </seccions>
+          </fitxa>
+          <fitxa>
+            <codiTramit>d41e3fc656e046fc9a3beb8390ce2df2</codiTramit>
+            <nomTramit>FUE Comunicació prèvia municipal per a espectacles públics o activitats recreatives de caràcter extraordinari</nomTramit>
+            <esTelematic>true</esTelematic>
+            <URLTramitAssociat>https://tramits.manlleu.cat/siac/ProcedimientoTabs.aspx?tab=1&amp;idProc=160&amp;idnct=763&amp;x=g558FB//y4QMad94k7qf3g</URLTramitAssociat>
+            <seccions>
+              <seccio>
+                <numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio>
+                <nomSeccio>Descripció del procediment</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>FUE Comunicació prèvia municipal per a espectacles públics o activitats recreatives de caràcter extraordinari</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio>
+                <nomSeccio>Objecte</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Els establiments oberts al públic, els espectacles públics i les activitats recreatives per dur a terme la seva activitat requereixen l'obtenció prèvia d'autoritzacions, llicències o comunicació de dades abans de l'inici de l'activitat. La intervenció serà més o menys complexa en funció dels efectes que aquestes activitats tenen sobre la convivència veïnal, la mobilitat, la salut de les persones i el medi ambient.
+
+La Generalitat s'encarrega de les intervencions més complexes i de major afectació, mentre que els ajuntaments fan la resta.
+
+La comunicació prèvia és el règim d'intervenció a través del qual la persona o empresa que vol posar funcionament un establiment fix obert al públic, d'espectacles públics o activitats recreatives ordinàries, ho posa en coneixement de l'Ajuntament i acompanya la documentació que acredita el compliment dels requisits que exigeix la normativa aplicable.
+
+Es consideren espectacles públics i activitats recreatives de  caràcter extraordinari:
+
+- Els que es duen a terme amb motiu de festes o revetlles populars.
+- Els que siguin d'interès artístic o cultural amb un aforament reduït de menys de 150 persones, en el cas que es duguin a terme ocasionalment en espais oberts al públic o en qualsevol tipus d'establiments de concurrència pública.
+- Les actuacions en directe en establiments inclosos en el catàleg del Decret 112/2010, del 31 d'agost, pel qual s'aprova el Reglament d'espectacles públics i activitats recreatives i a l'annex I de l'Ordenança d'intervenció municipal.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio>
+                <nomSeccio>Persones destinatàries</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>La persona  física o jurídica que vol dur a terme l'espectacle públic o activitat recreativa extraordinaris o el seu representant legal. En aquest darrer cas s'ha de declarar la representació amb la qual s'actua.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>706f3e09252249718448685a1974f591</numIntSeccio>
+                <nomSeccio>Termini de sol·licitud</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Es pot presentar en qualsevol moment.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio>
+                <nomSeccio>Import</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>200 € 
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio>
+                <nomSeccio>Unitat tramitadora</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Àrea de Serveis Territorials, Medi Ambient i Habitatge
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio>
+                <nomSeccio>Òrgan responsable de la resolució</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Regidoria d'Urbanisme
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>d9577ab1cfa74465832a802aade43a09</numIntSeccio>
+                <nomSeccio>Normativa d'interés</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Llei 11/2009, de 6 de juliol, de regulació administrativa dels espectacles públics i les activitats recreatives.&lt;br/&gt;Decret 112/2010, de 31 d'agost, pel que s'aprova el Reglament d'espectacles públics i activitats recreatives.&lt;br/&gt;&lt;a href="https://tramits.manlleu.cat/siac/PublicacionTabs.aspx?tab=6&amp;id=1788&amp;t=NO&amp;x=3XjL0c5pPKqI9RDwY2wBmQ"&gt;Ordenança d'intervenció municipal en espectacles públics i activitats recreatives&lt;/a&gt;&lt;br/&gt;</contingutSeccio>
+              </seccio>
+            </seccions>
+          </fitxa>
+          <fitxa>
+            <codiTramit>672098d0ba4b41d099d964c3eb486e40</codiTramit>
+            <nomTramit>FUE Comunicació prèvia de modificació no substancial d'un establiment i/o un espectacle o activitat recreativa</nomTramit>
+            <esTelematic>true</esTelematic>
+            <URLTramitAssociat>https://tramits.manlleu.cat/siac/ProcedimientoTabs.aspx?tab=1&amp;idProc=162&amp;idnct=760&amp;x=AUudpSmk1i/uwZmoiRcgGw</URLTramitAssociat>
+            <seccions>
+              <seccio>
+                <numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio>
+                <nomSeccio>Descripció del procediment</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>FUE Comunicació prèvia de modificació no substancial d'un establiment i/o un espectacle o activitat recreativa</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio>
+                <nomSeccio>Objecte</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>És el tràmit a través del qual la persona o empresa titular d'una activitat que disposa de llicència o comunicació prèvia vigent, posa en coneixement de l'Ajuntament que procedeix a realitzar-hi una modificació no substancial.
+
+Es considera modificació no substancial  les modificacions dels establiments i de les seves instal·lacions, ja sigui per transformació, adaptació o reforma, ampliació o reducció, estan sotmeses a aquesta comunicació prèvia quan siguin no substancials (excepte gran rehabilitació) d'acord amb el què disposa el Codi tècnic de l'edificació.
+
+Si la modificació que es vol realitzar es tracta d'una gran rehabilitació, caldrà sol·licitar una nova llicència o autorització o presentar una nova comunicació prèvia.
+
+Els titulars de les activitats hauran de consultar el Codi tècnic de l'edificació per tal de saber si les modificacions que es volen realitzar són considerades gran rehabilitació o no.
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio>
+                <nomSeccio>Persones destinatàries</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>La persona física o jurídica titular d'una activitat
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>706f3e09252249718448685a1974f591</numIntSeccio>
+                <nomSeccio>Termini de sol·licitud</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>La comunicació ha de formalitzar-se abans de realitzar la modificació no substancial.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio>
+                <nomSeccio>Import</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>300 € la modificació no substancial dels establiments oberts al públic que comptin amb la llicència municipal corresponent
+
+160 € la modificació dels espectacles públics o les activitats recreatives incloses en la llicència municipal o en la comunicació prèvia d'un establiment obert al públic, quan aquesta variació està subjecte al procediment de comunicació prèvia.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio>
+                <nomSeccio>Unitat tramitadora</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Àrea de Serveis Territorials, Medi Ambient i Habitatge
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio>
+                <nomSeccio>Òrgan responsable de la resolució</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Regidoria d'Urbanisme
+
+</contingutSeccio>
+              </seccio>
+            </seccions>
+          </fitxa>
+          <fitxa>
+            <codiTramit>ea8b8e37542e4503a3cbcf02496cf656</codiTramit>
+            <nomTramit>FUE Comunicació de canvi de titularitat d'activitats</nomTramit>
+            <esTelematic>true</esTelematic>
+            <URLTramitAssociat>https://tramits.manlleu.cat/siac/ProcedimientoTabs.aspx?tab=1&amp;idProc=163&amp;idnct=758&amp;x=aic98kE0DlzqFtny9Vh87A</URLTramitAssociat>
+            <seccions>
+              <seccio>
+                <numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio>
+                <nomSeccio>Descripció del procediment</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>FUE Comunicació de canvi de titularitat d'activitats</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio>
+                <nomSeccio>Objecte</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>És el tràmit a través del qual la persona o empresa titular d’una activitat que disposa de llicència o comunicació prèvia vigent, posa en coneixement de l’Ajuntament que transmet el corresponent títol que l’habilitava per exercir l’activitat.
+
+Aquesta comunicació a l’Ajuntament serveix per acreditar la subrogació del nou titular en els drets i deures derivats de la llicència o comunicació prèvia.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio>
+                <nomSeccio>Persones destinatàries</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Tant el transmitent com el nou titular.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>706f3e09252249718448685a1974f591</numIntSeccio>
+                <nomSeccio>Termini de sol·licitud</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>La comunicació ha de formalitzar-se en el termini màxim d'un mes des que s'ha produït efectivament la transmissió.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio>
+                <nomSeccio>Import</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>165 € transmissió d'activitats legalitzades (excepte bars i restaurants)
+
+175 € transmissió de bars i restaurants
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio>
+                <nomSeccio>Unitat tramitadora</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Àrea de Serveis Territorials, Medi Ambient i Habitatge
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio>
+                <nomSeccio>Òrgan responsable de la resolució</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Regidoria d'Urbanisme
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>d9577ab1cfa74465832a802aade43a09</numIntSeccio>
+                <nomSeccio>Normativa d'interés</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Llei 12/2012, 26 de desembre, de mesures urgents de lliberalització del comerç que modifica el TRLHL. &lt;br/&gt;Llei 20/2009, de 4 de desembre, de prevenció i control ambiental de les activitats.&lt;br/&gt;Llei 11/2009, de 6 de juliol, de regulació administrativa dels espectacles públics i les activitats recreatives.&lt;br/&gt;Decret 112/2010, de 31 d'agost, pel que s'aprova el Reglament d'espectacles públics i activitats recreatives.&lt;br/&gt;&lt;a href="https://tramits.manlleu.cat/siac/PublicacionTabs.aspx?tab=6&amp;id=1789&amp;t=NO&amp;x=vfvD+bpUKtPTUpSAH7/7fQ"&gt;Ordenança d'intervenció municipal ambiental, de seguretat i de salut pública&lt;/a&gt;&lt;br/&gt;&lt;a href="https://tramits.manlleu.cat/siac/PublicacionTabs.aspx?tab=6&amp;id=1788&amp;t=NO&amp;x=3XjL0c5pPKqI9RDwY2wBmQ"&gt;Ordenança d'intervenció municipal en espectacles públics i activitats recreatives&lt;/a&gt;&lt;br/&gt;</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>e9c41b04682b448d936ec939222c9d9f</numIntSeccio>
+                <nomSeccio>Impresos del tràmit</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>&lt;p&gt;&lt;a href='https://tramits.manlleu.cat/siac/Procedimientos_ver_doc.aspx?solComp=3514'&gt;Annex I. Comunicació conjunta del nou i anterior titular&lt;/a&gt;&lt;/p&gt;
+</contingutSeccio>
+              </seccio>
+            </seccions>
+          </fitxa>
+          <fitxa>
+            <codiTramit>c349792547bf41d2a297073dfe8c05aa</codiTramit>
+            <nomTramit>FUE Llicència municipal d'establiments fixos oberts al públic, d'espectacles públics i activitats recreatives ordinàries</nomTramit>
+            <esTelematic>true</esTelematic>
+            <URLTramitAssociat>https://tramits.manlleu.cat/siac/ProcedimientoTabs.aspx?tab=1&amp;idProc=155&amp;idnct=766&amp;x=FJcuaIYLITIl4Egp7tVyXg</URLTramitAssociat>
+            <seccions>
+              <seccio>
+                <numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio>
+                <nomSeccio>Descripció del procediment</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>FUE Llicència municipal d'establiments fixos oberts al públic, d'espectacles públics i activitats recreatives ordinàries</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio>
+                <nomSeccio>Objecte</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Els establiments oberts al públic, els espectacles públics i les activitats recreatives per dur a terme la seva activitat requereixen l'obtenció prèvia d'autoritzacions, llicències o comunicació de dades abans de l'inici de l'activitat. La intervenció serà més o menys complexa en funció dels efectes que aquestes activitats tenen sobre la convivència veïnal, la mobilitat, la salut de les persones i el medi ambient.
+
+Els espectacles públics i les activitats recreatives ordinàries que estan sotmeses al règim de llicència municipal són les següents:
+
+- Bars musicals amb un aforament superior a 150 persones.
+- Discoteques.
+- Sales de ball.
+- Restaurants musicals amb un aforament superior a 150 persones.
+- Sales de festes amb espectacle.
+- Discoteques de joventut.
+- Establiments on s'hi realitzen activitats de naturalesa sexual:
+      - Locals amb servei de bar i ambientació musical sense pista de ball o espai         assimilable.
+      - Locals que ofereixen actuacions i espectacles eròtics.
+
+També s'ha de tenir present que les modificacions substancials d'un establiment o activitats ja autoritzades també estaran subjectes a aquesta llicència i, sempre que sigui possible, s'haurà de referir a la part o a les parts que es modifiquen
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>706f3e09252249718448685a1974f591</numIntSeccio>
+                <nomSeccio>Termini de sol·licitud</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Es pot presentar en qualsevol moment.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio>
+                <nomSeccio>Persones destinatàries</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Les persones físiques o jurídiques que volen obrir qualsevol dels establiments fixos oberts al públic d'espectacles públics i activitats recreatives ordinàries.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio>
+                <nomSeccio>Import</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>1.260 € l'obertura d'establiments de més de 500 m2 oberts al públic d'espectacles públics i d'activitats recreatives de caràcter permanent que no estiguin subjectes al règim de comunicació prèvia
+
+1.010 € l'obertura d'establiments de menys de 500 m2 oberts al públic d'espectacles públics i d'activitats recreatives de caràcter permanent que no estiguin subjectes al règim de comunicació prèvia
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio>
+                <nomSeccio>Unitat tramitadora</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Àrea de Serveis Territorials, Medi Ambient i Habitatge
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio>
+                <nomSeccio>Òrgan responsable de la resolució</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Regidoria d'Urbanisme
+
+</contingutSeccio>
+              </seccio>
+            </seccions>
+          </fitxa>
+          <fitxa>
+            <codiTramit>aee81c1164374d35a3d7eedee8aca74f</codiTramit>
+            <nomTramit>FUE Comunicació prèvia municipal d'establiments fixos oberts al públic, d'espectacles públics i activitats recreatives ordinàries</nomTramit>
+            <esTelematic>true</esTelematic>
+            <URLTramitAssociat>https://tramits.manlleu.cat/siac/ProcedimientoTabs.aspx?tab=1&amp;idProc=156&amp;idnct=761&amp;x=ZlIcfGvIsjUBDNkzX63ZsQ</URLTramitAssociat>
+            <seccions>
+              <seccio>
+                <numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio>
+                <nomSeccio>Descripció del procediment</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>FUE Comunicació prèvia municipal d'establiments fixos oberts al públic, d'espectacles públics i activitats recreatives ordinàries</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio>
+                <nomSeccio>Objecte</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Els establiments oberts al públic, els espectacles públics i les activitats recreatives per dur a terme la seva activitat requereixen l'obtenció prèvia d'autoritzacions, llicències o comunicació de dades abans de l'inici de l'activitat. La intervenció serà més o menys complexa en funció dels efectes que aquestes activitats tenen sobre la convivència veïnal, la mobilitat, la salut de les persones i el medi ambient.
+
+La Generalitat s'encarrega de les intervencions més complexes i de major afectació, mentre que els ajuntaments fan la resta.
+
+La comunicació prèvia és el règim d'intervenció a través del qual la persona o empresa que vol posar funcionament un establiment fix obert al públic, d'espectacles públics o activitats recreatives ordinàries, ho posa en coneixement de l'Ajuntament i acompanya la documentació que acredita el compliment dels requisits que exigeix la normativa aplicable.
+
+En el Decret 112/2010, de 31 d'agost, que aprova el Reglament d'espectacles públics i activitats recreatives es detalla quins són els espectacles públics i les activitats recreatives ordinàries que abans de posar-se en marxa, hauran de posar-se en coneixement de l'Ajuntament.  Aquesta comunicació prèvia, anirà acompanyada de la documentació que acrediti el compliment dels requisits que exigeix la normativa.
+
+També s'ha de tenir present que les modificacions substancials d'un establiment o activitats ja autoritzades també estaran subjectes a aquest règim i, sempre que sigui possible, s'haurà de referir a la part o a les parts que es modifiquen
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio>
+                <nomSeccio>Persones destinatàries</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Les persones físiques o jurídiques que volen posar en funcionament un establiment fix obert al públic, d'espectacles públics o activitats recreatives ordinàries o, el seu representant legal. En aquest cas s'ha de declarar la representació amb la qual s'actua.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>706f3e09252249718448685a1974f591</numIntSeccio>
+                <nomSeccio>Termini de sol·licitud</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>La comunicació prèvia es presenta un cop finalitzades les obres i les instal·lacions necessàries per obrir l'establiment o dur a terme l'activitat i prèviament al seu inici.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio>
+                <nomSeccio>Import</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>425 € l'obertura d'establiments oberts al públic destinats a espectacles cinematogràfics
+
+425 € l'obertura d'establiments oberts al públic destinats a espectacles públics i activitats recreatives musicals amb un aforament autoritzat fins a 150 persones
+
+425 € l'obertura d'establiments oberts al públic d'activitats de restauració amb un aforament autoritzat fins a 150 persones i sempre que no disposin de terrassa o qualsevol altre espai complementari a l'aire lliure
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio>
+                <nomSeccio>Unitat tramitadora</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Àrea de Serveis Territorials, Medi Ambient i Habitatge
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio>
+                <nomSeccio>Òrgan responsable de la resolució</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Regidoria d'Urbanisme
+
+</contingutSeccio>
+              </seccio>
+            </seccions>
+          </fitxa>
+          <fitxa>
+            <codiTramit>f9b54450001d45b18bd608cab4a7551e</codiTramit>
+            <nomTramit>FUE Comunicació prèvia de modificació no substancial d'una activitat amb efectes sobre les persones o el medi ambient</nomTramit>
+            <esTelematic>true</esTelematic>
+            <URLTramitAssociat>https://tramits.manlleu.cat/siac/ProcedimientoTabs.aspx?tab=1&amp;idProc=161&amp;idnct=745&amp;x=6V76eKV/GjsEFrIKBOPmqQ</URLTramitAssociat>
+            <seccions>
+              <seccio>
+                <numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio>
+                <nomSeccio>Descripció del procediment</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>FUE Comunicació prèvia de modificació no substancial d'una activitat amb efectes sobre les persones o el medi ambient</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio>
+                <nomSeccio>Objecte</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>És el tràmit a través del qual la persona o empresa titular d’una activitat que disposa de llicència o comunicació prèvia vigent, posa en coneixement de l’Ajuntament que procedeix a realitzar-hi una modificació no substancial.
+
+Una modificació no substancial és aquella que no comporta repercussions importants o perjudicials sobre les persones o pel medi ambient.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio>
+                <nomSeccio>Persones destinatàries</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>La persona física o jurídica titular d'una activitat
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>706f3e09252249718448685a1974f591</numIntSeccio>
+                <nomSeccio>Termini de sol·licitud</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>La comunicació ha de formalitzar-se abans de realitzar la modificació no substancial.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio>
+                <nomSeccio>Import</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>300 € la comprovació de modificacions no substancials d'activitats sotmeses al règim de comunicació ambiental municipal.
+
+630 € la comprovació de la comunicació de canvis no substancials amb incidència ambiental de les activitats i instal·lacions subjectes a llicència ambiental de més de 500 m2 (Annex II)
+
+505 € la comprovació de la comunicació de canvis no substancials amb incidència ambiental de les activitats i instal·lacions subjectes a llicència ambiental de menys de 500 m2 (Annex II)
+
+
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio>
+                <nomSeccio>Unitat tramitadora</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Àrea de Serveis Territorials, Medi Ambient i Habitatge
+
+
+
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio>
+                <nomSeccio>Òrgan responsable de la resolució</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Regidoria d'Urbanisme
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>d9577ab1cfa74465832a802aade43a09</numIntSeccio>
+                <nomSeccio>Normativa d'interés</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Llei 20/2009, de 4 de desembre, de prevenció i control ambiental de les activitats.&lt;br/&gt;</contingutSeccio>
+              </seccio>
+            </seccions>
+          </fitxa>
+          <fitxa>
+            <codiTramit>8372cb9e38c648f99ed1ccf1b16cf0c9</codiTramit>
+            <nomTramit>FUE Llicència ambiental (Annex II)</nomTramit>
+            <esTelematic>true</esTelematic>
+            <URLTramitAssociat>https://tramits.manlleu.cat/siac/ProcedimientoTabs.aspx?tab=1&amp;idProc=154&amp;idnct=746&amp;x=ifAZVkK8p3Iys+/yPrIJLA</URLTramitAssociat>
+            <seccions>
+              <seccio>
+                <numIntSeccio>3bc4204ddd414b29bb4350ada0854471</numIntSeccio>
+                <nomSeccio>Descripció del procediment</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>FUE Llicència ambiental (Annex II)</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>5e09344b1cf64f7dadfcadbef394b5e3</numIntSeccio>
+                <nomSeccio>Objecte</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Estan sotmeses al règim de llicència ambiental municipal les activitats ubicades en un mateix centre o en un mateix establiment i que pertanyen a la mateixa persona o empresa titulars, que es relacionen a l’annex II de la Llei 20/2009, de prevenció i control ambiental de les activitats (LPCAA), tant per ser implantades com per a tota modificació substancial que s’hi pretengui realitzar un cop autoritzades, amb excepció dels establiments turístics (càmpings de fins a 1500 unitats d’acamapada) que es tramiten a través d'un formulari específic. Més informació a: https://canalempresa.gencat.cat/ca/03_sectors_d_activitat/06_hostaleria_i_turisme/establiments_turistics/.
+
+Aquestes activitats se subdivideixen en:
+
+- Activitats sotmeses a una llicència ambiental amb declaració d’impacte ambiental. Aquestes activitats són les que en l’epígraf corresponent a l’annex II de la LPCAA es determina específicament la necessitat d’aquest procés (Codis 11.1 i 11.2).
+
+- Activitats sotmeses a una llicència ambiental i a un procés de decisió prèvia sobre la necessitat de declaració d’impacte ambiental: aquestes activitats són les que es troben en algun d’aquests supòsits: 
+
+En l’epígraf corresponent a l’annex II de la LPCAA es determina específicament la necessitat d’aquest procés. (Codi 7.9.sempre que a la instal·lació es donin, d'una manera simultània, les circumstàncies següents: 
+
+a) que estigui situada fora de polígons industrials, 
+b) que estigui situada a menys de 500 m d'una zona residencial, 
+c) que ocupi una superfície d'almenys 1 hectàrea) 
+
+Estan ubicades en espais naturals de protecció especial (PEIN, Xarxa Natura; zones humides conveni Ramsar, altres). 
+
+Activitats sotmeses a una llicència ambiental sense necessitat de sotmetre’s a cap procés d’avaluació d’impacte ambiental. 
+
+També està subjecta a llicència ambiental la modificació substancial de qualsevol activitat de l’annex II de la LPCAA, amb els mateixos procediments, documentació i requisits que els establerts per al seu atorgament.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>308e7a939a9b4c64a5f78f470b9d00bb</numIntSeccio>
+                <nomSeccio>Persones destinatàries</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Les persones físiques o jurídiques que volen exercir una o diverses activitats en un mateix centre o establiment, o el seu representant legal. En aquest cas s'ha de declarar la representació amb la qual s'actua.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>706f3e09252249718448685a1974f591</numIntSeccio>
+                <nomSeccio>Termini de sol·licitud</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Es pot presentar en qualsevol moment.
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>cddf6a3371a6472281b33a05e0f584ef</numIntSeccio>
+                <nomSeccio>Import</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>1.260 € la llicència ambiental municipal d'activitats exercides en locals tancats o recintes amb una superfície de més de 500 m2 (Annex II)
+
+1.010 € la llicència ambiental municipal d'activitats exercides en locals tancats o recintes amb una superfície de menys de 500 m2 (Annex II)
+
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>ef66d94f66541aaa9776d9307952853</numIntSeccio>
+                <nomSeccio>Unitat tramitadora</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Àrea de Serveis Territorials, Medi Ambient i Habitatge
+
+</contingutSeccio>
+              </seccio>
+              <seccio>
+                <numIntSeccio>d614d4b400c011e28ecd8b3e6188709b</numIntSeccio>
+                <nomSeccio>Òrgan responsable de la resolució</nomSeccio>
+                <idioma>ca_ES</idioma>
+                <contingutSeccio>Regidoria d'Urbanisme</contingutSeccio>
+              </seccio>
+            </seccions>
+          </fitxa>
+        </dadesCataleg>
+      </consultarCatalegResult>
+    </transmissioResponse>
+  </Body>
+</Envelope>
